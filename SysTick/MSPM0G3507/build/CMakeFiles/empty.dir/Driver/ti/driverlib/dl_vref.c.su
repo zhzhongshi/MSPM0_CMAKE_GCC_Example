@@ -1,0 +1,3 @@
+C:/project/TI/SysTick/MSPM0G3507/Driver/ti/driverlib/dl_vref.c:37:6:DL_VREF_configReference	0	static
+C:/project/TI/SysTick/MSPM0G3507/Driver/ti/driverlib/dl_vref.c:45:6:DL_VREF_setClockConfig	0	static
+C:/project/TI/SysTick/MSPM0G3507/Driver/ti/driverlib/dl_vref.c:51:6:DL_VREF_getClockConfig	0	static

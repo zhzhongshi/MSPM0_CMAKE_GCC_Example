@@ -1,0 +1,6 @@
+C:/project/TI/Example/UART/MSPM0G3507/Core/main.c:30:6:delay_ms	0	static
+C:/project/TI/Example/UART/MSPM0G3507/Core/main.c:10:5:main	16	static
+C:/project/TI/Example/UART/MSPM0G3507/Core/main.c:36:6:uart0_send_char	0	static
+C:/project/TI/Example/UART/MSPM0G3507/Core/main.c:44:6:uart0_send_string	8	static
+C:/project/TI/Example/UART/MSPM0G3507/Core/main.c:55:6:SysTick_Handler	0	static
+C:/project/TI/Example/UART/MSPM0G3507/Core/main.c:64:6:UART0_IRQHandler	8	static

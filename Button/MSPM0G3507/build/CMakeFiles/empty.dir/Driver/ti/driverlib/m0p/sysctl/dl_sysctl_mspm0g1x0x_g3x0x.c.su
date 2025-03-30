@@ -1,0 +1,12 @@
+C:/project/TI/Example/Button/MSPM0G3507/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0g1x0x_g3x0x.c:41:6:DL_SYSCTL_configSYSPLL	24	static
+C:/project/TI/Example/Button/MSPM0G3507/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0g1x0x_g3x0x.c:109:6:DL_SYSCTL_setLFCLKSourceLFXT	8	static
+C:/project/TI/Example/Button/MSPM0G3507/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0g1x0x_g3x0x.c:134:6:DL_SYSCTL_switchMCLKfromSYSOSCtoLFCLK	0	static
+C:/project/TI/Example/Button/MSPM0G3507/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0g1x0x_g3x0x.c:152:6:DL_SYSCTL_switchMCLKfromLFCLKtoSYSOSC	0	static
+C:/project/TI/Example/Button/MSPM0G3507/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0g1x0x_g3x0x.c:167:6:DL_SYSCTL_switchMCLKfromSYSOSCtoHSCLK	0	static
+C:/project/TI/Example/Button/MSPM0G3507/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0g1x0x_g3x0x.c:189:6:DL_SYSCTL_switchMCLKfromHSCLKtoSYSOSC	0	static
+C:/project/TI/Example/Button/MSPM0G3507/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0g1x0x_g3x0x.c:201:6:DL_SYSCTL_setHFCLKSourceHFXT	16	static
+C:/project/TI/Example/Button/MSPM0G3507/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0g1x0x_g3x0x.c:221:6:DL_SYSCTL_setHFCLKSourceHFXTParams	24	static
+C:/project/TI/Example/Button/MSPM0G3507/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0g1x0x_g3x0x.c:247:6:DL_SYSCTL_configFCC	0	static
+C:/project/TI/Example/Button/MSPM0G3507/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0g1x0x_g3x0x.c:256:34:DL_SYSCTL_getPowerPolicyRUNSLEEP	0	static
+C:/project/TI/Example/Button/MSPM0G3507/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0g1x0x_g3x0x.c:278:29:DL_SYSCTL_getPowerPolicySTOP	0	static
+C:/project/TI/Example/Button/MSPM0G3507/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0g1x0x_g3x0x.c:301:32:DL_SYSCTL_getPowerPolicySTANDBY	0	static

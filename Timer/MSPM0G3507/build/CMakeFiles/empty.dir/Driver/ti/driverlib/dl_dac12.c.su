@@ -1,0 +1,6 @@
+C:/project/TI/Example/Timer/MSPM0G3507/Driver/ti/driverlib/dl_dac12.c:37:6:DL_DAC12_init	12	static
+C:/project/TI/Example/Timer/MSPM0G3507/Driver/ti/driverlib/dl_dac12.c:66:6:DL_DAC12_outputBlocking8	0	static
+C:/project/TI/Example/Timer/MSPM0G3507/Driver/ti/driverlib/dl_dac12.c:75:6:DL_DAC12_outputBlocking12	0	static
+C:/project/TI/Example/Timer/MSPM0G3507/Driver/ti/driverlib/dl_dac12.c:84:10:DL_DAC12_fillFIFO8	12	static
+C:/project/TI/Example/Timer/MSPM0G3507/Driver/ti/driverlib/dl_dac12.c:99:10:DL_DAC12_fillFIFO12	12	static
+C:/project/TI/Example/Timer/MSPM0G3507/Driver/ti/driverlib/dl_dac12.c:114:6:DL_DAC12_performSelfCalibrationBlocking	0	static

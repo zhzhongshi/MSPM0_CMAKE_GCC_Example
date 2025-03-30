@@ -1,0 +1,1672 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:/Users/zhzhongshi/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+                              CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj (__aeabi_uidiv)
+C:/Users/zhzhongshi/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+                              C:/Users/zhzhongshi/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+C:/Users/zhzhongshi/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libg_nano.a(libc_a-init.o)
+                              CMakeFiles/empty.dir/Core/startup_mspm0g350x_gcc.c.obj (__libc_init_array)
+C:/Users/zhzhongshi/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libg_nano.a(libc_a-memcpy-stub.o)
+                              CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj (memcpy)
+
+Discarded input sections
+
+ .text.DL_ADC12_setClockConfig
+                0x00000000       0x40 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_adc12.c.obj
+ .text.DL_ADC12_getClockConfig
+                0x00000000       0x30 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_adc12.c.obj
+ .text.DL_AES_loadDataWord
+                0x00000000       0x14 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_aes.c.obj
+ .text.DL_AES_checkAlignmentAndReturnPointer
+                0x00000000        0xa CMakeFiles/empty.dir/Driver/ti/driverlib/dl_aes.c.obj
+ .text.DL_AES_setKeyAligned
+                0x00000000       0x20 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_aes.c.obj
+ .text.DL_AES_setKey
+                0x00000000       0x20 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_aes.c.obj
+ .text.DL_AES_loadDataInAligned
+                0x00000000       0x14 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_aes.c.obj
+ .text.DL_AES_loadDataIn
+                0x00000000       0x1c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_aes.c.obj
+ .text.DL_AES_getDataOutAligned
+                0x00000000       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_aes.c.obj
+ .text.DL_AES_getDataOut
+                0x00000000       0x12 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_aes.c.obj
+ .text.DL_AES_loadXORDataInAligned
+                0x00000000       0x14 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_aes.c.obj
+ .text.DL_AES_loadXORDataIn
+                0x00000000       0x1c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_aes.c.obj
+ .text.DL_AES_loadXORDataInWithoutTriggerAligned
+                0x00000000       0x14 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_aes.c.obj
+ .text.DL_AES_loadXORDataInWithoutTrigger
+                0x00000000       0x1c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_aes.c.obj
+ .text.DL_AES_xorDataAligned
+                0x00000000       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_aes.c.obj
+ .text.DL_AES_xorData
+                0x00000000       0x22 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_aes.c.obj
+ .text.DL_AES_saveConfiguration
+                0x00000000       0x50 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_aes.c.obj
+ .text.DL_AES_restoreConfiguration
+                0x00000000       0x4c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_aes.c.obj
+ .text.DL_CRC_calculateBlock32
+                0x00000000       0x2c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_crc.c.obj
+ .text.DL_CRC_calculateMemoryRange32
+                0x00000000       0x24 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_crc.c.obj
+ .text.DL_CRC_calculateBlock16
+                0x00000000       0x3c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_crc.c.obj
+ .text.DL_CRC_calculateMemoryRange16
+                0x00000000       0x38 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_crc.c.obj
+ .text.DL_DAC12_init
+                0x00000000       0x7c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_dac12.c.obj
+ .text.DL_DAC12_outputBlocking8
+                0x00000000       0x14 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_dac12.c.obj
+ .text.DL_DAC12_outputBlocking12
+                0x00000000       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_dac12.c.obj
+ .text.DL_DAC12_fillFIFO8
+                0x00000000       0x24 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_dac12.c.obj
+ .text.DL_DAC12_fillFIFO12
+                0x00000000       0x2c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_dac12.c.obj
+ .text.DL_DAC12_performSelfCalibrationBlocking
+                0x00000000       0x14 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_dac12.c.obj
+ .text.DL_DMA_initChannel
+                0x00000000       0x58 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_dma.c.obj
+ .text.DL_FlashCTL_getFlashSectorNumberInBank
+                0x00000000       0x54 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .ramfunc       0x00000000       0x30 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_programMemoryConfig
+                0x00000000       0x1c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_programMemory8Config
+                0x00000000       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_programMemory16Config
+                0x00000000       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_programMemory32Config
+                0x00000000       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_programMemory64Config
+                0x00000000       0x20 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_readVerifyConfig
+                0x00000000       0x1c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_readVerify8Config
+                0x00000000       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_readVerify16Config
+                0x00000000       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_readVerify32Config
+                0x00000000       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_readVerify64Config
+                0x00000000       0x20 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_eraseMemory
+                0x00000000       0x1c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_eraseMemoryFromRAM
+                0x00000000       0x1c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_programMemory8
+                0x00000000       0x16 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_programMemoryFromRAM8
+                0x00000000       0x14 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_programMemory16
+                0x00000000       0x16 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_programMemoryFromRAM16
+                0x00000000       0x14 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_programMemory32
+                0x00000000       0x16 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_programMemoryFromRAM32
+                0x00000000       0x14 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_programMemory64
+                0x00000000       0x16 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_programMemoryFromRAM64
+                0x00000000       0x14 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_programMemory8WithECCGenerated
+                0x00000000       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_programMemoryFromRAM8WithECCGenerated
+                0x00000000       0x16 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_programMemory16WithECCGenerated
+                0x00000000       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_programMemoryFromRAM16WithECCGenerated
+                0x00000000       0x16 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_programMemory32WithECCGenerated
+                0x00000000       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_programMemoryFromRAM32WithECCGenerated
+                0x00000000       0x16 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_programMemory64WithECCGenerated
+                0x00000000       0x1c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_programMemoryFromRAM64WithECCGenerated
+                0x00000000       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_programMemory8WithECCManual
+                0x00000000       0x28 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_programMemoryFromRAM8WithECCManual
+                0x00000000       0x28 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_programMemory16WithECCManual
+                0x00000000       0x28 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_programMemoryFromRAM16WithECCManual
+                0x00000000       0x28 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_programMemory32WithECCManual
+                0x00000000       0x28 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_programMemoryFromRAM32WithECCManual
+                0x00000000       0x28 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_programMemory64WithECCManual
+                0x00000000       0x24 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_programMemoryFromRAM64WithECCManual
+                0x00000000       0x24 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_unprotectMainMemory
+                0x00000000       0x1c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_unprotectDataMemory
+                0x00000000       0x1c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_protectMainMemory
+                0x00000000       0x20 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_unprotectNonMainMemory
+                0x00000000        0xc CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_protectNonMainMemory
+                0x00000000       0x10 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_unprotectAllMemory
+                0x00000000       0x34 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_protectAllMemory
+                0x00000000       0x38 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_unprotectSector
+                0x00000000       0xfc CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_programMemoryBlocking64WithECCGenerated
+                0x00000000       0x88 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_programMemoryBlockingFromRAM64WithECCGenerated
+                0x00000000       0x74 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_programMemoryBlocking64WithECCManual
+                0x00000000       0x94 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_programMemoryBlockingFromRAM64WithECCManual
+                0x00000000       0x80 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_programMemoryBlocking
+                0x00000000       0x98 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_programMemoryFromRAM
+                0x00000000       0x5e CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_protectSector
+                0x00000000       0xfc CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_readVerify8
+                0x00000000       0x2c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_readVerify16
+                0x00000000       0x2c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_readVerify32
+                0x00000000       0x2c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_readVerify64
+                0x00000000       0x38 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_readVerifyFromRAM8
+                0x00000000       0x14 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_readVerifyFromRAM16
+                0x00000000       0x14 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_readVerifyFromRAM32
+                0x00000000       0x14 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_readVerifyFromRAM64
+                0x00000000       0x14 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_readVerifyFromRAM8WithECCGenerated
+                0x00000000       0x16 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_readVerifyFromRAM16WithECCGenerated
+                0x00000000       0x16 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_readVerifyFromRAM32WithECCGenerated
+                0x00000000       0x16 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_readVerifyFromRAM64WithECCGenerated
+                0x00000000       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_readVerifyFromRAM8WithECCManual
+                0x00000000       0x28 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_readVerifyFromRAM16WithECCManual
+                0x00000000       0x28 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_readVerifyFromRAM32WithECCManual
+                0x00000000       0x28 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_readVerifyFromRAM64WithECCManual
+                0x00000000       0x24 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_readVerify8WithECCGenerated
+                0x00000000       0x30 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_readVerify16WithECCGenerated
+                0x00000000       0x30 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_readVerify32WithECCGenerated
+                0x00000000       0x30 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_readVerify64WithECCGenerated
+                0x00000000       0x3c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_readVerify8WithECCManual
+                0x00000000       0x38 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_readVerify16WithECCManual
+                0x00000000       0x38 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_readVerify32WithECCManual
+                0x00000000       0x38 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_readVerify64WithECCManual
+                0x00000000       0x44 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_blankVerify
+                0x00000000       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_blankVerifyFromRAM
+                0x00000000       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_eraseDataBank
+                0x00000000       0x94 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_massErase
+                0x00000000       0x64 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_factoryReset
+                0x00000000       0x40 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_massEraseMultiBank
+                0x00000000      0x124 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_factoryResetMultiBank
+                0x00000000       0x40 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_eraseDataBankFromRAM
+                0x00000000       0x7c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_massEraseFromRAM
+                0x00000000       0x48 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_FlashCTL_factoryResetFromRAM
+                0x00000000       0x24 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text.DL_I2C_setClockConfig
+                0x00000000       0x2c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_i2c.c.obj
+ .text.DL_I2C_getClockConfig
+                0x00000000       0x1c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_i2c.c.obj
+ .text.DL_I2C_fillControllerTXFIFO
+                0x00000000       0x2c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_i2c.c.obj
+ .text.DL_I2C_flushControllerTXFIFO
+                0x00000000       0x30 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_i2c.c.obj
+ .text.DL_I2C_flushControllerRXFIFO
+                0x00000000       0x2c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_i2c.c.obj
+ .text.DL_I2C_fillTargetTXFIFO
+                0x00000000       0x2c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_i2c.c.obj
+ .text.DL_I2C_flushTargetTXFIFO
+                0x00000000       0x30 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_i2c.c.obj
+ .text.DL_I2C_flushTargetRXFIFO
+                0x00000000       0x2c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_i2c.c.obj
+ .text.DL_I2C_transmitTargetDataBlocking
+                0x00000000       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_i2c.c.obj
+ .text.DL_I2C_transmitTargetDataCheck
+                0x00000000       0x20 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_i2c.c.obj
+ .text.DL_I2C_receiveTargetDataBlocking
+                0x00000000       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_i2c.c.obj
+ .text.DL_I2C_receiveTargetDataCheck
+                0x00000000       0x1c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_i2c.c.obj
+ .text.DL_MathACL_configOperation
+                0x00000000       0x34 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mathacl.c.obj
+ .text.DL_MCAN_writeProtectedRegAccessUnlock
+                0x00000000       0x10 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_writeProtectedRegAccessLock
+                0x00000000       0x10 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_eccLoadRegister
+                0x00000000       0x20 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_getDataSize
+                0x00000000       0x20 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_readMsg
+                0x00000000       0xdc CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_writeMsg
+                0x00000000       0xd0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_getMsgObjSize
+                0x00000000       0x24 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_isReady
+                0x00000000       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_setClockConfig
+                0x00000000       0x24 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_getClockConfig
+                0x00000000       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_isInReset
+                0x00000000       0x14 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_isFDOpEnable
+                0x00000000       0x14 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_isMemInitDone
+                0x00000000       0x14 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_setOpMode
+                0x00000000       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_getOpMode
+                0x00000000       0x10 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_init
+                0x00000000      0x134 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_config
+                0x00000000       0xf8 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_eccConfig
+                0x00000000       0x60 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_setBitTime
+                0x00000000      0x108 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_msgRAMConfig
+                0x00000000      0x234 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_setExtIDAndMask
+                0x00000000       0x34 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_writeMsgRam
+                0x00000000       0x5c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_TXBufAddReq
+                0x00000000       0x28 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_getNewDataStatus
+                0x00000000       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_clearNewDataStatus
+                0x00000000       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_readMsgRam
+                0x00000000       0xa8 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_readTxEventFIFO
+                0x00000000       0x70 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_addStdMsgIDFilter
+                0x00000000       0x30 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_addExtMsgIDFilter
+                0x00000000       0x34 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_lpbkModeEnable
+                0x00000000       0x70 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_getErrCounters
+                0x00000000       0x30 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_getProtocolStatus
+                0x00000000       0x58 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_enableIntr
+                0x00000000       0x1c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_selectIntrLine
+                0x00000000       0x1c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_getIntrLineSelectStatus
+                0x00000000        0xc CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_enableIntrLine
+                0x00000000       0x1c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_getIntrStatus
+                0x00000000        0xc CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_clearIntrStatus
+                0x00000000       0x14 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_getHighPriorityMsgStatus
+                0x00000000       0x30 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_getRxFIFOStatus
+                0x00000000       0x64 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_writeRxFIFOAck
+                0x00000000       0x70 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_getTxFIFOQueStatus
+                0x00000000       0x28 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_getTxBufReqPend
+                0x00000000        0xc CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_txBufCancellationReq
+                0x00000000       0x28 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_getTxBufTransmissionStatus
+                0x00000000        0xc CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_txBufCancellationStatus
+                0x00000000        0xc CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_TXBufTransIntrEnable
+                0x00000000       0x34 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_getTxBufCancellationIntrEnable
+                0x00000000       0x34 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_getTxEventFIFOStatus
+                0x00000000       0x2c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_addClockStopRequest
+                0x00000000       0x20 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_writeTxEventFIFOAck
+                0x00000000       0x30 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_eccForceError
+                0x00000000       0x8c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_eccGetErrorStatus
+                0x00000000       0x40 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_eccClearErrorStatus
+                0x00000000       0x48 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_eccWriteEOI
+                0x00000000       0x28 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_eccEnableIntr
+                0x00000000       0x50 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_eccGetIntrStatus
+                0x00000000       0x28 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_eccClearIntrStatus
+                0x00000000       0x28 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_extTSCounterConfig
+                0x00000000       0x14 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_extTSCounterEnable
+                0x00000000       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_extTSEnableIntr
+                0x00000000       0x24 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_extTSWriteEOI
+                0x00000000       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_extTSGetUnservicedIntrCount
+                0x00000000       0x10 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_getRevisionId
+                0x00000000       0x50 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_getClockStopAck
+                0x00000000       0x10 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_extTSSetRawStatus
+                0x00000000       0x10 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_extTSClearRawStatus
+                0x00000000       0x10 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_getRxPinState
+                0x00000000       0x10 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_setTxPinState
+                0x00000000       0x34 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_getTxPinState
+                0x00000000       0x10 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_getTSCounterVal
+                0x00000000       0x10 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_getClkStopAck
+                0x00000000       0x10 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_getBitTime
+                0x00000000       0x54 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_resetTSCounter
+                0x00000000       0x10 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_getTOCounterVal
+                0x00000000       0x10 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_eccAggrGetRevisionId
+                0x00000000       0x22 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_eccWrapGetRevisionId
+                0x00000000       0x34 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_extTSIsIntrEnable
+                0x00000000       0x14 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_getEndianVal
+                0x00000000        0xc CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_getExtIDANDMask
+                0x00000000       0x10 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_saveConfiguration
+                0x00000000      0x194 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_MCAN_restoreConfiguration
+                0x00000000      0x1c8 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .rodata        0x00000000       0x60 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text.DL_OPA_increaseGain
+                0x00000000       0x38 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_opa.c.obj
+ .text.DL_OPA_decreaseGain
+                0x00000000       0x3c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_opa.c.obj
+ .text.DL_RTC_Common_initCalendar
+                0x00000000       0xe4 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_rtc_common.c.obj
+ .text.DL_RTC_Common_getCalendarTime
+                0x00000000       0xd0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_rtc_common.c.obj
+ .text.DL_RTC_Common_setCalendarAlarm1
+                0x00000000       0x9c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_rtc_common.c.obj
+ .text.DL_RTC_Common_getCalendarAlarm1
+                0x00000000       0xa4 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_rtc_common.c.obj
+ .text.DL_RTC_Common_enableCalendarAlarm1
+                0x00000000       0x68 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_rtc_common.c.obj
+ .text.DL_RTC_Common_disableCalendarAlarm1
+                0x00000000       0x6c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_rtc_common.c.obj
+ .text.DL_RTC_Common_setCalendarAlarm2
+                0x00000000       0x9c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_rtc_common.c.obj
+ .text.DL_RTC_Common_getCalendarAlarm2
+                0x00000000       0xa4 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_rtc_common.c.obj
+ .text.DL_RTC_Common_enableCalendarAlarm2
+                0x00000000       0x64 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_rtc_common.c.obj
+ .text.DL_RTC_Common_disableCalendarAlarm2
+                0x00000000       0x68 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_rtc_common.c.obj
+ .text.DL_SPI_init
+                0x00000000       0x40 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_spi.c.obj
+ .text.DL_SPI_setClockConfig
+                0x00000000       0x14 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_spi.c.obj
+ .text.DL_SPI_getClockConfig
+                0x00000000       0x14 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_spi.c.obj
+ .text.DL_SPI_receiveDataBlocking8
+                0x00000000       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_spi.c.obj
+ .text.DL_SPI_receiveDataBlocking16
+                0x00000000       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_spi.c.obj
+ .text.DL_SPI_receiveDataBlocking32
+                0x00000000       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_spi.c.obj
+ .text.DL_SPI_transmitDataBlocking8
+                0x00000000       0x14 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_spi.c.obj
+ .text.DL_SPI_transmitDataBlocking16
+                0x00000000       0x14 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_spi.c.obj
+ .text.DL_SPI_transmitDataBlocking32
+                0x00000000       0x14 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_spi.c.obj
+ .text.DL_SPI_receiveDataCheck8
+                0x00000000       0x20 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_spi.c.obj
+ .text.DL_SPI_receiveDataCheck16
+                0x00000000       0x20 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_spi.c.obj
+ .text.DL_SPI_receiveDataCheck32
+                0x00000000       0x20 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_spi.c.obj
+ .text.DL_SPI_transmitDataCheck8
+                0x00000000       0x1c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_spi.c.obj
+ .text.DL_SPI_transmitDataCheck16
+                0x00000000       0x1c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_spi.c.obj
+ .text.DL_SPI_transmitDataCheck32
+                0x00000000       0x1c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_spi.c.obj
+ .text.DL_SPI_drainRXFIFO8
+                0x00000000       0x28 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_spi.c.obj
+ .text.DL_SPI_drainRXFIFO16
+                0x00000000       0x28 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_spi.c.obj
+ .text.DL_SPI_drainRXFIFO32
+                0x00000000       0x28 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_spi.c.obj
+ .text.DL_SPI_fillTXFIFO8
+                0x00000000       0x24 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_spi.c.obj
+ .text.DL_SPI_fillTXFIFO16
+                0x00000000       0x28 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_spi.c.obj
+ .text.DL_SPI_saveConfiguration
+                0x00000000       0x70 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_spi.c.obj
+ .text.DL_SPI_restoreConfiguration
+                0x00000000       0x7c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_spi.c.obj
+ .text.DL_SPI_fillTXFIFO32
+                0x00000000       0x28 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_spi.c.obj
+ .text.DL_Timer_getInChanConfig
+                0x00000000       0x56 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .text.DL_Timer_getInChanPairConfig
+                0x00000000       0x2a CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .text.DL_Timer_setClockConfig
+                0x00000000       0x1c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .text.DL_Timer_getClockConfig
+                0x00000000       0x20 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .text.DL_Timer_setCaptureCompareValue
+                0x00000000       0x14 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .text.DL_Timer_getCaptureCompareValue
+                0x00000000       0x14 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .text.DL_Timer_setCaptureCompareCtl
+                0x00000000       0x24 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .text.DL_Timer_initTimerMode
+                0x00000000       0x7c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .text.DL_Timer_getCaptureCompareCtl
+                0x00000000       0x1c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .text.DL_Timer_setSecondCompSrcDn
+                0x00000000       0x1c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .text.DL_Timer_getSecondCompSrcDn
+                0x00000000       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .text.DL_Timer_setSecondCompSrcUp
+                0x00000000       0x20 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .text.DL_Timer_getSecondCompSrcUp
+                0x00000000       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .text.DL_Timer_setSecondCompActionDn
+                0x00000000       0x20 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .text.DL_Timer_getSecondCompActionDn
+                0x00000000       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .text.DL_Timer_setSecondCompActionUp
+                0x00000000       0x20 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .text.DL_Timer_getSecondCompActionUp
+                0x00000000       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .text.DL_Timer_enableSuppressionOfCompEvent
+                0x00000000       0x1c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .text.DL_Timer_disableSuppressionOfCompEvent
+                0x00000000       0x1c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .text.DL_Timer_setCaptCompUpdateMethod
+                0x00000000       0x20 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .text.DL_Timer_getCaptCompUpdateMethod
+                0x00000000       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .text.DL_Timer_setCaptCompActUpdateMethod
+                0x00000000       0x20 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .text.DL_Timer_getCaptCompActUpdateMethod
+                0x00000000       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .text.DL_Timer_setCaptureCompareOutCtl
+                0x00000000       0x1c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .text.DL_Timer_getCaptureCompareOutCtl
+                0x00000000       0x14 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .text.DL_Timer_setCaptureCompareAction
+                0x00000000       0x20 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .text.DL_Timer_getCaptureCompareAction
+                0x00000000       0x1c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .text.DL_Timer_overrideCCPOut
+                0x00000000       0x20 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .text.DL_Timer_setCaptureCompareInput
+                0x00000000       0x1e CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .text.DL_Timer_initCaptureMode
+                0x00000000      0x100 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .text.DL_Timer_initCaptureTriggerMode
+                0x00000000       0x98 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .text.DL_Timer_initCaptureCombinedMode
+                0x00000000       0xa0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .text.DL_Timer_initCompareMode
+                0x00000000       0x9c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .text.DL_Timer_initCompareTriggerMode
+                0x00000000       0x84 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .text.DL_Timer_initTwoCCPWMMode
+                0x00000000       0xfc CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .text.DL_Timer_getCaptureCompareInput
+                0x00000000       0x14 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .text.DL_Timer_setCaptureCompareInputFilter
+                0x00000000       0x20 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .text.DL_Timer_getCaptureCompareInputFilter
+                0x00000000       0x16 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .text.DL_Timer_enableCaptureCompareInputFilter
+                0x00000000       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .text.DL_Timer_disableCaptureCompareInputFilter
+                0x00000000       0x1c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .text.DL_Timer_isCaptureCompareInputFilterEnabled
+                0x00000000       0x1c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .text.DL_Timer_saveConfiguration
+                0x00000000      0x1a4 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .text.DL_Timer_restoreConfiguration
+                0x00000000      0x1b4 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .text.DL_Timer_initFourCCPWMMode
+                0x00000000       0xc4 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .text.DL_Timer_setFaultSourceConfig
+                0x00000000       0x2c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .text.DL_Timer_getFaultSourceConfig
+                0x00000000       0x20 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .text.DL_TimerA_saveConfiguration
+                0x00000000      0x1e0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .text.DL_TimerA_restoreConfiguration
+                0x00000000      0x1d8 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .text.DL_Timer_configQEIHallInputMode
+                0x00000000       0x30 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .text.DL_TRNG_saveConfiguration
+                0x00000000       0x30 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_trng.c.obj
+ .text.DL_TRNG_restoreConfiguration
+                0x00000000       0x50 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_trng.c.obj
+ .text.DL_UART_setBaudRateDivisor
+                0x00000000       0x40 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_uart.c.obj
+ .text.DL_UART_init
+                0x00000000       0x48 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_uart.c.obj
+ .text.DL_UART_setClockConfig
+                0x00000000       0x14 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_uart.c.obj
+ .text.DL_UART_getClockConfig
+                0x00000000       0x14 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_uart.c.obj
+ .text.DL_UART_configBaudRate
+                0x00000000       0x84 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_uart.c.obj
+ .text.DL_UART_setIrDAPulseLength
+                0x00000000       0x32 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_uart.c.obj
+ .text.DL_UART_configIrDAMode
+                0x00000000       0x28 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_uart.c.obj
+ .text.DL_UART_receiveDataBlocking
+                0x00000000       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_uart.c.obj
+ .text.DL_UART_transmitDataBlocking
+                0x00000000       0x14 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_uart.c.obj
+ .text.DL_UART_receiveDataCheck
+                0x00000000       0x20 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_uart.c.obj
+ .text.DL_UART_transmitDataCheck
+                0x00000000       0x1c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_uart.c.obj
+ .text.DL_UART_drainRXFIFO
+                0x00000000       0x28 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_uart.c.obj
+ .text.DL_UART_fillTXFIFO
+                0x00000000       0x24 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_uart.c.obj
+ .text.DL_UART_Main_saveConfiguration
+                0x00000000       0x84 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_uart.c.obj
+ .text.DL_UART_Main_restoreConfiguration
+                0x00000000       0x94 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_uart.c.obj
+ .text.DL_UART_Extend_saveConfiguration
+                0x00000000       0xa8 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_uart.c.obj
+ .text.DL_UART_Extend_restoreConfiguration
+                0x00000000       0xb0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_uart.c.obj
+ .text.DL_VREF_configReference
+                0x00000000       0x24 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_vref.c.obj
+ .text.DL_VREF_setClockConfig
+                0x00000000       0x14 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_vref.c.obj
+ .text.DL_VREF_getClockConfig
+                0x00000000       0x14 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_vref.c.obj
+ .text.DL_Interrupt_registerInterrupt
+                0x00000000       0x38 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/dl_interrupt.c.obj
+ .text.DL_Interrupt_unregisterInterrupt
+                0x00000000       0x14 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/dl_interrupt.c.obj
+ .text.DL_SYSCTL_configSYSPLL
+                0x00000000       0xfc CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0g1x0x_g3x0x.c.obj
+ .text.DL_SYSCTL_setLFCLKSourceLFXT
+                0x00000000       0x64 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0g1x0x_g3x0x.c.obj
+ .text.DL_SYSCTL_switchMCLKfromSYSOSCtoLFCLK
+                0x00000000       0x5c CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0g1x0x_g3x0x.c.obj
+ .text.DL_SYSCTL_switchMCLKfromLFCLKtoSYSOSC
+                0x00000000       0x38 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0g1x0x_g3x0x.c.obj
+ .text.DL_SYSCTL_switchMCLKfromSYSOSCtoHSCLK
+                0x00000000       0x3c CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0g1x0x_g3x0x.c.obj
+ .text.DL_SYSCTL_switchMCLKfromHSCLKtoSYSOSC
+                0x00000000       0x28 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0g1x0x_g3x0x.c.obj
+ .text.DL_SYSCTL_setHFCLKSourceHFXT
+                0x00000000       0x60 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0g1x0x_g3x0x.c.obj
+ .text.DL_SYSCTL_setHFCLKSourceHFXTParams
+                0x00000000       0x80 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0g1x0x_g3x0x.c.obj
+ .text.DL_SYSCTL_configFCC
+                0x00000000       0x1c CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0g1x0x_g3x0x.c.obj
+ .text.DL_SYSCTL_getPowerPolicyRUNSLEEP
+                0x00000000       0x38 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0g1x0x_g3x0x.c.obj
+ .text.DL_SYSCTL_getPowerPolicySTOP
+                0x00000000       0x44 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0g1x0x_g3x0x.c.obj
+ .text.DL_SYSCTL_getPowerPolicySTANDBY
+                0x00000000       0x38 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0g1x0x_g3x0x.c.obj
+ .text.memcpy   0x00000000       0x12 C:/Users/zhzhongshi/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libg_nano.a(libc_a-memcpy-stub.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x00000000         0x00020000         xr
+SRAM             0x20200000         0x00008000         xrw
+BCR_CONFIG       0x41c00000         0x000000ff         r
+BSL_CONFIG       0x41c00100         0x00000080         r
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD C:/Users/zhzhongshi/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a
+START GROUP
+LOAD C:/Users/zhzhongshi/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libc_nano.a
+LOAD C:/Users/zhzhongshi/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libm.a
+END GROUP
+LOAD CMakeFiles/empty.dir/Core/main.c.obj
+LOAD CMakeFiles/empty.dir/Core/startup_mspm0g350x_gcc.c.obj
+LOAD CMakeFiles/empty.dir/Core/ti_msp_dl_config.c.obj
+LOAD CMakeFiles/empty.dir/Driver/ti/driverlib/dl_adc12.c.obj
+LOAD CMakeFiles/empty.dir/Driver/ti/driverlib/dl_aes.c.obj
+LOAD CMakeFiles/empty.dir/Driver/ti/driverlib/dl_aesadv.c.obj
+LOAD CMakeFiles/empty.dir/Driver/ti/driverlib/dl_common.c.obj
+LOAD CMakeFiles/empty.dir/Driver/ti/driverlib/dl_comp.c.obj
+LOAD CMakeFiles/empty.dir/Driver/ti/driverlib/dl_crc.c.obj
+LOAD CMakeFiles/empty.dir/Driver/ti/driverlib/dl_crcp.c.obj
+LOAD CMakeFiles/empty.dir/Driver/ti/driverlib/dl_dac12.c.obj
+LOAD CMakeFiles/empty.dir/Driver/ti/driverlib/dl_dma.c.obj
+LOAD CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+LOAD CMakeFiles/empty.dir/Driver/ti/driverlib/dl_gpamp.c.obj
+LOAD CMakeFiles/empty.dir/Driver/ti/driverlib/dl_gpio.c.obj
+LOAD CMakeFiles/empty.dir/Driver/ti/driverlib/dl_i2c.c.obj
+LOAD CMakeFiles/empty.dir/Driver/ti/driverlib/dl_iwdt.c.obj
+LOAD CMakeFiles/empty.dir/Driver/ti/driverlib/dl_keystorectl.c.obj
+LOAD CMakeFiles/empty.dir/Driver/ti/driverlib/dl_lcd.c.obj
+LOAD CMakeFiles/empty.dir/Driver/ti/driverlib/dl_lfss.c.obj
+LOAD CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mathacl.c.obj
+LOAD CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+LOAD CMakeFiles/empty.dir/Driver/ti/driverlib/dl_opa.c.obj
+LOAD CMakeFiles/empty.dir/Driver/ti/driverlib/dl_rtc.c.obj
+LOAD CMakeFiles/empty.dir/Driver/ti/driverlib/dl_rtc_a.c.obj
+LOAD CMakeFiles/empty.dir/Driver/ti/driverlib/dl_rtc_b.c.obj
+LOAD CMakeFiles/empty.dir/Driver/ti/driverlib/dl_rtc_common.c.obj
+LOAD CMakeFiles/empty.dir/Driver/ti/driverlib/dl_scratchpad.c.obj
+LOAD CMakeFiles/empty.dir/Driver/ti/driverlib/dl_spi.c.obj
+LOAD CMakeFiles/empty.dir/Driver/ti/driverlib/dl_tamperio.c.obj
+LOAD CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+LOAD CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timera.c.obj
+LOAD CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timerg.c.obj
+LOAD CMakeFiles/empty.dir/Driver/ti/driverlib/dl_trng.c.obj
+LOAD CMakeFiles/empty.dir/Driver/ti/driverlib/dl_uart.c.obj
+LOAD CMakeFiles/empty.dir/Driver/ti/driverlib/dl_vref.c.obj
+LOAD CMakeFiles/empty.dir/Driver/ti/driverlib/dl_wwdt.c.obj
+LOAD CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/dl_factoryregion.c.obj
+LOAD CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/dl_interrupt.c.obj
+LOAD CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0c110x.c.obj
+LOAD CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0g1x0x_g3x0x.c.obj
+LOAD CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0gx51x.c.obj
+LOAD CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0h321x.c.obj
+LOAD CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0l111x.c.obj
+LOAD CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0l11xx_l13xx.c.obj
+LOAD CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0l122x_l222x.c.obj
+START GROUP
+LOAD C:/Users/zhzhongshi/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a
+LOAD C:/Users/zhzhongshi/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libg_nano.a
+LOAD C:/Users/zhzhongshi/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libc_nano.a
+END GROUP
+START GROUP
+LOAD C:/Users/zhzhongshi/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a
+LOAD C:/Users/zhzhongshi/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libc_nano.a
+LOAD C:/Users/zhzhongshi/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libnosys.a
+END GROUP
+START GROUP
+LOAD C:/Users/zhzhongshi/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a
+LOAD C:/Users/zhzhongshi/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libc_nano.a
+LOAD C:/Users/zhzhongshi/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libnosys.a
+END GROUP
+                0x00000000                        _Min_Heap_Size = 0x0
+                0x00000080                        _Min_Stack_Size = 0x80
+                0x00000000                        PROVIDE (_intvecs_base_address = DEFINED (_intvecs_base_address)?_intvecs_base_address:0x0)
+
+.intvecs        0x00000000       0xc0
+ *(.intvecs)
+ .intvecs       0x00000000       0xc0 CMakeFiles/empty.dir/Core/startup_mspm0g350x_gcc.c.obj
+                0x00000000                interruptVectors
+                0x20200000                        PROVIDE (_vtable_base_address = DEFINED (_vtable_base_address)?_vtable_base_address:0x20200000)
+
+.vtable         0x20200000       0xc0
+ *(.vtable)
+ *fill*         0x20200000        0x0 
+ .vtable        0x20200000       0xc0 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/dl_interrupt.c.obj
+
+.text           0x000000c0      0x2b0
+ CREATE_OBJECT_SYMBOLS
+ *(.text)
+ .text          0x000000c0        0x0 CMakeFiles/empty.dir/Core/main.c.obj
+ .text          0x000000c0        0x0 CMakeFiles/empty.dir/Core/startup_mspm0g350x_gcc.c.obj
+ .text          0x000000c0        0x0 CMakeFiles/empty.dir/Core/ti_msp_dl_config.c.obj
+ .text          0x000000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_adc12.c.obj
+ .text          0x000000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_aes.c.obj
+ .text          0x000000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_aesadv.c.obj
+ .text          0x000000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_common.c.obj
+ .text          0x000000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_comp.c.obj
+ .text          0x000000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_crc.c.obj
+ .text          0x000000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_crcp.c.obj
+ .text          0x000000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_dac12.c.obj
+ .text          0x000000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_dma.c.obj
+ .text          0x000000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .text          0x000000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_gpamp.c.obj
+ .text          0x000000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_gpio.c.obj
+ .text          0x000000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_i2c.c.obj
+ .text          0x000000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_iwdt.c.obj
+ .text          0x000000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_keystorectl.c.obj
+ .text          0x000000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_lcd.c.obj
+ .text          0x000000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_lfss.c.obj
+ .text          0x000000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mathacl.c.obj
+ .text          0x000000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .text          0x000000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_opa.c.obj
+ .text          0x000000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_rtc.c.obj
+ .text          0x000000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_rtc_a.c.obj
+ .text          0x000000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_rtc_b.c.obj
+ .text          0x000000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_rtc_common.c.obj
+ .text          0x000000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_scratchpad.c.obj
+ .text          0x000000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_spi.c.obj
+ .text          0x000000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_tamperio.c.obj
+ .text          0x000000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .text          0x000000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timera.c.obj
+ .text          0x000000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timerg.c.obj
+ .text          0x000000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_trng.c.obj
+ .text          0x000000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_uart.c.obj
+ .text          0x000000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_vref.c.obj
+ .text          0x000000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_wwdt.c.obj
+ .text          0x000000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/dl_factoryregion.c.obj
+ .text          0x000000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/dl_interrupt.c.obj
+ .text          0x000000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0c110x.c.obj
+ .text          0x000000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0g1x0x_g3x0x.c.obj
+ .text          0x000000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0gx51x.c.obj
+ .text          0x000000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0h321x.c.obj
+ .text          0x000000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0l111x.c.obj
+ .text          0x000000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0l11xx_l13xx.c.obj
+ .text          0x000000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0l122x_l222x.c.obj
+ .text          0x000000c0      0x114 C:/Users/zhzhongshi/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+                0x000000c0                __aeabi_uidiv
+                0x000000c0                __udivsi3
+                0x000001cc                __aeabi_uidivmod
+ .text          0x000001d4        0x4 C:/Users/zhzhongshi/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+                0x000001d4                __aeabi_idiv0
+                0x000001d4                __aeabi_ldiv0
+ .text          0x000001d8        0x0 C:/Users/zhzhongshi/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libg_nano.a(libc_a-init.o)
+ .text          0x000001d8        0x0 C:/Users/zhzhongshi/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libg_nano.a(libc_a-memcpy-stub.o)
+                0x000001d8                        . = ALIGN (0x8)
+ *(.text.*)
+ .text.main     0x000001d8       0x34 CMakeFiles/empty.dir/Core/main.c.obj
+                0x000001d8                main
+ .text.Default_Handler
+                0x0000020c        0x2 CMakeFiles/empty.dir/Core/startup_mspm0g350x_gcc.c.obj
+                0x0000020c                TIMG6_IRQHandler
+                0x0000020c                TIMG8_IRQHandler
+                0x0000020c                I2C0_IRQHandler
+                0x0000020c                HardFault_Handler
+                0x0000020c                SysTick_Handler
+                0x0000020c                PendSV_Handler
+                0x0000020c                NMI_Handler
+                0x0000020c                I2C1_IRQHandler
+                0x0000020c                UART1_IRQHandler
+                0x0000020c                TIMA1_IRQHandler
+                0x0000020c                UART0_IRQHandler
+                0x0000020c                ADC0_IRQHandler
+                0x0000020c                SPI1_IRQHandler
+                0x0000020c                TIMG0_IRQHandler
+                0x0000020c                ADC1_IRQHandler
+                0x0000020c                GROUP1_IRQHandler
+                0x0000020c                RTC_IRQHandler
+                0x0000020c                GROUP0_IRQHandler
+                0x0000020c                UART2_IRQHandler
+                0x0000020c                Default_Handler
+                0x0000020c                SVC_Handler
+                0x0000020c                TIMG12_IRQHandler
+                0x0000020c                DAC0_IRQHandler
+                0x0000020c                TIMG7_IRQHandler
+                0x0000020c                SPI0_IRQHandler
+                0x0000020c                AES_IRQHandler
+                0x0000020c                DMA_IRQHandler
+                0x0000020c                TIMA0_IRQHandler
+                0x0000020c                UART3_IRQHandler
+                0x0000020c                CANFD0_IRQHandler
+ *fill*         0x0000020e        0x2 
+ .text.Reset_Handler
+                0x00000210       0x60 CMakeFiles/empty.dir/Core/startup_mspm0g350x_gcc.c.obj
+                0x00000210                Reset_Handler
+ .text.initStub
+                0x00000270        0x2 CMakeFiles/empty.dir/Core/startup_mspm0g350x_gcc.c.obj
+                0x00000270                initStub
+                0x00000270                _init
+ *fill*         0x00000272        0x2 
+ .text.SYSCFG_DL_initPower
+                0x00000274       0x34 CMakeFiles/empty.dir/Core/ti_msp_dl_config.c.obj
+                0x00000274                SYSCFG_DL_initPower
+ .text.SYSCFG_DL_GPIO_init
+                0x000002a8       0x2c CMakeFiles/empty.dir/Core/ti_msp_dl_config.c.obj
+                0x000002a8                SYSCFG_DL_GPIO_init
+ .text.SYSCFG_DL_SYSCTL_init
+                0x000002d4       0x38 CMakeFiles/empty.dir/Core/ti_msp_dl_config.c.obj
+                0x000002d4                SYSCFG_DL_SYSCTL_init
+ .text.SYSCFG_DL_init
+                0x0000030c       0x10 CMakeFiles/empty.dir/Core/ti_msp_dl_config.c.obj
+                0x0000030c                SYSCFG_DL_init
+ .text.DL_Common_delayCycles
+                0x0000031c        0xa CMakeFiles/empty.dir/Driver/ti/driverlib/dl_common.c.obj
+                0x0000031c                DL_Common_delayCycles
+ *fill*         0x00000326        0x2 
+ .text.__libc_init_array
+                0x00000328       0x48 C:/Users/zhzhongshi/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libg_nano.a(libc_a-init.o)
+                0x00000328                __libc_init_array
+                0x00000370                        . = ALIGN (0x8)
+ *(.ctors)
+                0x00000370                        . = ALIGN (0x8)
+ *(.dtors)
+                0x00000370                        . = ALIGN (0x8)
+ *(.init)
+                0x00000370                        . = ALIGN (0x8)
+ *(.fini*)
+                0x00000370                        . = ALIGN (0x8)
+
+.glue_7         0x00000370        0x0
+ .glue_7        0x00000370        0x0 linker stubs
+
+.glue_7t        0x00000370        0x0
+ .glue_7t       0x00000370        0x0 linker stubs
+
+.vfp11_veneer   0x00000370        0x0
+ .vfp11_veneer  0x00000370        0x0 linker stubs
+
+.v4_bx          0x00000370        0x0
+ .v4_bx         0x00000370        0x0 linker stubs
+
+.iplt           0x00000370        0x0
+ .iplt          0x00000370        0x0 CMakeFiles/empty.dir/Core/main.c.obj
+
+.rel.dyn        0x00000370        0x0
+ .rel.iplt      0x00000370        0x0 CMakeFiles/empty.dir/Core/main.c.obj
+
+.ramfunc        0x202000c0        0x0 load address 0x00000370
+                0x00000370                        __ramfunct_load__ = LOADADDR (.ramfunc)
+                0x202000c0                        __ramfunct_start__ = .
+ *(.ramfunc)
+                0x202000c0                        . = ALIGN (0x8)
+                0x202000c0                        __ramfunct_end__ = .
+
+.rodata         0x00000370        0x0
+ *(.rodata)
+                0x00000370                        . = ALIGN (0x8)
+ *(.rodata.*)
+                0x00000370                        . = ALIGN (0x8)
+
+.preinit_array  0x00000370        0x0
+                0x00000370                        PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x00000370                        PROVIDE (__preinit_array_end = .)
+
+.init_array     0x00000370        0x0
+                0x00000370                        . = ALIGN (0x8)
+                0x00000370                        PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+                0x00000370                        PROVIDE (__init_array_end = .)
+
+.fini_array     0x00000370        0x0
+                0x00000370                        . = ALIGN (0x8)
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+                [!provide]                        PROVIDE (__fini_array_end = .)
+                0x00000370                        . = ALIGN (0x8)
+
+.ARM.exidx      0x00000370        0x0
+                0x00000370                        __exidx_start = .
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x00000370                        __exidx_end = .
+
+.ARM.extab      0x00000370        0x0
+                0x00000370                        . = ALIGN (0x8)
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x00000370                        . = ALIGN (0x8)
+                0x00000370                        __etext = .
+
+.data           0x202000c0        0x0 load address 0x00000370
+                0x00000370                        __data_load__ = LOADADDR (.data)
+                0x202000c0                        __data_start__ = .
+ *(.data)
+ .data          0x202000c0        0x0 CMakeFiles/empty.dir/Core/main.c.obj
+ .data          0x202000c0        0x0 CMakeFiles/empty.dir/Core/startup_mspm0g350x_gcc.c.obj
+ .data          0x202000c0        0x0 CMakeFiles/empty.dir/Core/ti_msp_dl_config.c.obj
+ .data          0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_adc12.c.obj
+ .data          0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_aes.c.obj
+ .data          0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_aesadv.c.obj
+ .data          0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_common.c.obj
+ .data          0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_comp.c.obj
+ .data          0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_crc.c.obj
+ .data          0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_crcp.c.obj
+ .data          0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_dac12.c.obj
+ .data          0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_dma.c.obj
+ .data          0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .data          0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_gpamp.c.obj
+ .data          0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_gpio.c.obj
+ .data          0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_i2c.c.obj
+ .data          0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_iwdt.c.obj
+ .data          0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_keystorectl.c.obj
+ .data          0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_lcd.c.obj
+ .data          0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_lfss.c.obj
+ .data          0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mathacl.c.obj
+ .data          0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .data          0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_opa.c.obj
+ .data          0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_rtc.c.obj
+ .data          0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_rtc_a.c.obj
+ .data          0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_rtc_b.c.obj
+ .data          0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_rtc_common.c.obj
+ .data          0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_scratchpad.c.obj
+ .data          0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_spi.c.obj
+ .data          0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_tamperio.c.obj
+ .data          0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .data          0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timera.c.obj
+ .data          0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timerg.c.obj
+ .data          0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_trng.c.obj
+ .data          0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_uart.c.obj
+ .data          0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_vref.c.obj
+ .data          0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_wwdt.c.obj
+ .data          0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/dl_factoryregion.c.obj
+ .data          0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/dl_interrupt.c.obj
+ .data          0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0c110x.c.obj
+ .data          0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0g1x0x_g3x0x.c.obj
+ .data          0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0gx51x.c.obj
+ .data          0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0h321x.c.obj
+ .data          0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0l111x.c.obj
+ .data          0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0l11xx_l13xx.c.obj
+ .data          0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0l122x_l222x.c.obj
+ .data          0x202000c0        0x0 C:/Users/zhzhongshi/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .data          0x202000c0        0x0 C:/Users/zhzhongshi/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+ .data          0x202000c0        0x0 C:/Users/zhzhongshi/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libg_nano.a(libc_a-init.o)
+ .data          0x202000c0        0x0 C:/Users/zhzhongshi/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libg_nano.a(libc_a-memcpy-stub.o)
+ *(.data*)
+                0x202000c0                        . = ALIGN (0x8)
+                0x202000c0                        __data_end__ = .
+
+.igot.plt       0x202000c0        0x0 load address 0x00000370
+ .igot.plt      0x202000c0        0x0 CMakeFiles/empty.dir/Core/main.c.obj
+
+.bss            0x202000c0        0x0
+                0x202000c0                        __bss_start__ = .
+ *(.shbss)
+ *(.bss)
+ .bss           0x202000c0        0x0 CMakeFiles/empty.dir/Core/main.c.obj
+ .bss           0x202000c0        0x0 CMakeFiles/empty.dir/Core/startup_mspm0g350x_gcc.c.obj
+ .bss           0x202000c0        0x0 CMakeFiles/empty.dir/Core/ti_msp_dl_config.c.obj
+ .bss           0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_adc12.c.obj
+ .bss           0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_aes.c.obj
+ .bss           0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_aesadv.c.obj
+ .bss           0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_common.c.obj
+ .bss           0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_comp.c.obj
+ .bss           0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_crc.c.obj
+ .bss           0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_crcp.c.obj
+ .bss           0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_dac12.c.obj
+ .bss           0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_dma.c.obj
+ .bss           0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .bss           0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_gpamp.c.obj
+ .bss           0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_gpio.c.obj
+ .bss           0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_i2c.c.obj
+ .bss           0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_iwdt.c.obj
+ .bss           0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_keystorectl.c.obj
+ .bss           0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_lcd.c.obj
+ .bss           0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_lfss.c.obj
+ .bss           0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mathacl.c.obj
+ .bss           0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .bss           0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_opa.c.obj
+ .bss           0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_rtc.c.obj
+ .bss           0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_rtc_a.c.obj
+ .bss           0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_rtc_b.c.obj
+ .bss           0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_rtc_common.c.obj
+ .bss           0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_scratchpad.c.obj
+ .bss           0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_spi.c.obj
+ .bss           0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_tamperio.c.obj
+ .bss           0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .bss           0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timera.c.obj
+ .bss           0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timerg.c.obj
+ .bss           0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_trng.c.obj
+ .bss           0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_uart.c.obj
+ .bss           0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_vref.c.obj
+ .bss           0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_wwdt.c.obj
+ .bss           0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/dl_factoryregion.c.obj
+ .bss           0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/dl_interrupt.c.obj
+ .bss           0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0c110x.c.obj
+ .bss           0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0g1x0x_g3x0x.c.obj
+ .bss           0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0gx51x.c.obj
+ .bss           0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0h321x.c.obj
+ .bss           0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0l111x.c.obj
+ .bss           0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0l11xx_l13xx.c.obj
+ .bss           0x202000c0        0x0 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0l122x_l222x.c.obj
+ .bss           0x202000c0        0x0 C:/Users/zhzhongshi/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .bss           0x202000c0        0x0 C:/Users/zhzhongshi/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+ .bss           0x202000c0        0x0 C:/Users/zhzhongshi/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libg_nano.a(libc_a-init.o)
+ .bss           0x202000c0        0x0 C:/Users/zhzhongshi/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libg_nano.a(libc_a-memcpy-stub.o)
+ *(.bss.*)
+ *(COMMON)
+                0x202000c0                        . = ALIGN (0x8)
+                0x202000c0                        __bss_end__ = .
+
+.noinit         0x202000c0        0x0
+ *(*.noinit*)
+                0x202000c0                        . = ALIGN (0x8)
+
+.heap           0x202000c0        0x0
+                0x202000c0                        __heap_start__ = .
+                0x202000c0                        end = __heap_start__
+                0x202000c0                        _end = end
+                0x202000c0                        __end = end
+ *(.heap)
+                0x202000c0                        __heap_end__ = .
+                0x202000c0                        __HeapLimit = __heap_end__
+
+.stack          0x202000c0        0x0
+                0x202000c0                        _stack = .
+ *(.stack)
+
+.BCRConfig
+ *(.BCRConfig)
+
+.BSLConfig
+ *(.BSLConfig)
+                0x20208000                        __StackTop = (ORIGIN (REGION_STACK) + LENGTH (REGION_STACK))
+                [!provide]                        PROVIDE (__stack = __StackTop)
+OUTPUT(empty.elf elf32-littlearm)
+LOAD linker stubs
+
+.debug_info     0x00000000    0xe25aa
+ .debug_info    0x00000000     0x55ea CMakeFiles/empty.dir/Core/main.c.obj
+ .debug_info    0x000055ea      0x1bc CMakeFiles/empty.dir/Core/startup_mspm0g350x_gcc.c.obj
+ .debug_info    0x000057a6     0x5c2a CMakeFiles/empty.dir/Core/ti_msp_dl_config.c.obj
+ .debug_info    0x0000b3d0     0x5776 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_adc12.c.obj
+ .debug_info    0x00010b46     0x5ce4 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_aes.c.obj
+ .debug_info    0x0001682a     0x54d0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_aesadv.c.obj
+ .debug_info    0x0001bcfa     0x54fe CMakeFiles/empty.dir/Driver/ti/driverlib/dl_common.c.obj
+ .debug_info    0x000211f8     0x54c9 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_comp.c.obj
+ .debug_info    0x000266c1     0x597b CMakeFiles/empty.dir/Driver/ti/driverlib/dl_crc.c.obj
+ .debug_info    0x0002c03c     0x54c9 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_crcp.c.obj
+ .debug_info    0x00031505     0x5d71 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_dac12.c.obj
+ .debug_info    0x00037276     0x58cc CMakeFiles/empty.dir/Driver/ti/driverlib/dl_dma.c.obj
+ .debug_info    0x0003cb42     0x8dd9 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .debug_info    0x0004591b     0x54c9 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_gpamp.c.obj
+ .debug_info    0x0004ade4     0x54c9 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_gpio.c.obj
+ .debug_info    0x000502ad     0x5dcc CMakeFiles/empty.dir/Driver/ti/driverlib/dl_i2c.c.obj
+ .debug_info    0x00056079     0x54c9 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_iwdt.c.obj
+ .debug_info    0x0005b542     0x54c9 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_keystorectl.c.obj
+ .debug_info    0x00060a0b     0x54c9 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_lcd.c.obj
+ .debug_info    0x00065ed4     0x54c9 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_lfss.c.obj
+ .debug_info    0x0006b39d     0x57a5 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mathacl.c.obj
+ .debug_info    0x00070b42     0xa88e CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .debug_info    0x0007b3d0     0x575b CMakeFiles/empty.dir/Driver/ti/driverlib/dl_opa.c.obj
+ .debug_info    0x00080b2b     0x54c9 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_rtc.c.obj
+ .debug_info    0x00085ff4     0x54c9 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_rtc_a.c.obj
+ .debug_info    0x0008b4bd     0x54c9 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_rtc_b.c.obj
+ .debug_info    0x00090986     0x716a CMakeFiles/empty.dir/Driver/ti/driverlib/dl_rtc_common.c.obj
+ .debug_info    0x00097af0     0x54c9 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_scratchpad.c.obj
+ .debug_info    0x0009cfb9     0x642c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_spi.c.obj
+ .debug_info    0x000a33e5     0x54c9 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_tamperio.c.obj
+ .debug_info    0x000a88ae     0x7ef3 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .debug_info    0x000b07a1     0x54d0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timera.c.obj
+ .debug_info    0x000b5c71     0x54d0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timerg.c.obj
+ .debug_info    0x000bb141     0x5712 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_trng.c.obj
+ .debug_info    0x000c0853     0x640b CMakeFiles/empty.dir/Driver/ti/driverlib/dl_uart.c.obj
+ .debug_info    0x000c6c5e     0x56d3 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_vref.c.obj
+ .debug_info    0x000cc331     0x54c9 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_wwdt.c.obj
+ .debug_info    0x000d17fa     0x54c9 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/dl_factoryregion.c.obj
+ .debug_info    0x000d6cc3     0x562e CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/dl_interrupt.c.obj
+ .debug_info    0x000dc2f1       0x65 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0c110x.c.obj
+ .debug_info    0x000dc356     0x605b CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0g1x0x_g3x0x.c.obj
+ .debug_info    0x000e23b1       0x65 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0gx51x.c.obj
+ .debug_info    0x000e2416       0x65 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0h321x.c.obj
+ .debug_info    0x000e247b       0x65 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0l111x.c.obj
+ .debug_info    0x000e24e0       0x65 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0l11xx_l13xx.c.obj
+ .debug_info    0x000e2545       0x65 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0l122x_l222x.c.obj
+
+.debug_abbrev   0x00000000     0x51f2
+ .debug_abbrev  0x00000000      0x201 CMakeFiles/empty.dir/Core/main.c.obj
+ .debug_abbrev  0x00000201      0x12b CMakeFiles/empty.dir/Core/startup_mspm0g350x_gcc.c.obj
+ .debug_abbrev  0x0000032c      0x288 CMakeFiles/empty.dir/Core/ti_msp_dl_config.c.obj
+ .debug_abbrev  0x000005b4      0x238 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_adc12.c.obj
+ .debug_abbrev  0x000007ec      0x2cf CMakeFiles/empty.dir/Driver/ti/driverlib/dl_aes.c.obj
+ .debug_abbrev  0x00000abb      0x139 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_aesadv.c.obj
+ .debug_abbrev  0x00000bf4      0x176 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_common.c.obj
+ .debug_abbrev  0x00000d6a      0x139 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_comp.c.obj
+ .debug_abbrev  0x00000ea3      0x2ae CMakeFiles/empty.dir/Driver/ti/driverlib/dl_crc.c.obj
+ .debug_abbrev  0x00001151      0x139 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_crcp.c.obj
+ .debug_abbrev  0x0000128a      0x2dc CMakeFiles/empty.dir/Driver/ti/driverlib/dl_dac12.c.obj
+ .debug_abbrev  0x00001566      0x274 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_dma.c.obj
+ .debug_abbrev  0x000017da      0x486 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .debug_abbrev  0x00001c60      0x139 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_gpamp.c.obj
+ .debug_abbrev  0x00001d99      0x139 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_gpio.c.obj
+ .debug_abbrev  0x00001ed2      0x2d2 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_i2c.c.obj
+ .debug_abbrev  0x000021a4      0x139 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_iwdt.c.obj
+ .debug_abbrev  0x000022dd      0x139 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_keystorectl.c.obj
+ .debug_abbrev  0x00002416      0x139 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_lcd.c.obj
+ .debug_abbrev  0x0000254f      0x139 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_lfss.c.obj
+ .debug_abbrev  0x00002688      0x231 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mathacl.c.obj
+ .debug_abbrev  0x000028b9      0x3c6 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .debug_abbrev  0x00002c7f      0x28a CMakeFiles/empty.dir/Driver/ti/driverlib/dl_opa.c.obj
+ .debug_abbrev  0x00002f09      0x139 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_rtc.c.obj
+ .debug_abbrev  0x00003042      0x139 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_rtc_a.c.obj
+ .debug_abbrev  0x0000317b      0x139 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_rtc_b.c.obj
+ .debug_abbrev  0x000032b4      0x34b CMakeFiles/empty.dir/Driver/ti/driverlib/dl_rtc_common.c.obj
+ .debug_abbrev  0x000035ff      0x139 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_scratchpad.c.obj
+ .debug_abbrev  0x00003738      0x390 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_spi.c.obj
+ .debug_abbrev  0x00003ac8      0x139 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_tamperio.c.obj
+ .debug_abbrev  0x00003c01      0x38a CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .debug_abbrev  0x00003f8b      0x139 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timera.c.obj
+ .debug_abbrev  0x000040c4      0x139 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timerg.c.obj
+ .debug_abbrev  0x000041fd      0x269 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_trng.c.obj
+ .debug_abbrev  0x00004466      0x3b0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_uart.c.obj
+ .debug_abbrev  0x00004816      0x191 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_vref.c.obj
+ .debug_abbrev  0x000049a7      0x139 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_wwdt.c.obj
+ .debug_abbrev  0x00004ae0      0x139 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/dl_factoryregion.c.obj
+ .debug_abbrev  0x00004c19      0x1ec CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/dl_interrupt.c.obj
+ .debug_abbrev  0x00004e05       0x26 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0c110x.c.obj
+ .debug_abbrev  0x00004e2b      0x309 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0g1x0x_g3x0x.c.obj
+ .debug_abbrev  0x00005134       0x26 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0gx51x.c.obj
+ .debug_abbrev  0x0000515a       0x26 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0h321x.c.obj
+ .debug_abbrev  0x00005180       0x26 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0l111x.c.obj
+ .debug_abbrev  0x000051a6       0x26 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0l11xx_l13xx.c.obj
+ .debug_abbrev  0x000051cc       0x26 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0l122x_l222x.c.obj
+
+.debug_loclists
+                0x00000000     0xa7e8
+ .debug_loclists
+                0x00000000       0x40 CMakeFiles/empty.dir/Core/main.c.obj
+ .debug_loclists
+                0x00000040       0x51 CMakeFiles/empty.dir/Core/startup_mspm0g350x_gcc.c.obj
+ .debug_loclists
+                0x00000091      0x134 CMakeFiles/empty.dir/Core/ti_msp_dl_config.c.obj
+ .debug_loclists
+                0x000001c5       0xe0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_adc12.c.obj
+ .debug_loclists
+                0x000002a5      0x71a CMakeFiles/empty.dir/Driver/ti/driverlib/dl_aes.c.obj
+ .debug_loclists
+                0x000009bf      0x2aa CMakeFiles/empty.dir/Driver/ti/driverlib/dl_crc.c.obj
+ .debug_loclists
+                0x00000c69      0x2ec CMakeFiles/empty.dir/Driver/ti/driverlib/dl_dac12.c.obj
+ .debug_loclists
+                0x00000f55      0x147 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_dma.c.obj
+ .debug_loclists
+                0x0000109c     0x2427 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .debug_loclists
+                0x000034c3      0x2c0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_i2c.c.obj
+ .debug_loclists
+                0x00003783       0x70 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mathacl.c.obj
+ .debug_loclists
+                0x000037f3     0x3caf CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .debug_loclists
+                0x000074a2      0x11e CMakeFiles/empty.dir/Driver/ti/driverlib/dl_opa.c.obj
+ .debug_loclists
+                0x000075c0      0x8bd CMakeFiles/empty.dir/Driver/ti/driverlib/dl_rtc_common.c.obj
+ .debug_loclists
+                0x00007e7d      0x5aa CMakeFiles/empty.dir/Driver/ti/driverlib/dl_spi.c.obj
+ .debug_loclists
+                0x00008427     0x163f CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .debug_loclists
+                0x00009a66       0x9b CMakeFiles/empty.dir/Driver/ti/driverlib/dl_trng.c.obj
+ .debug_loclists
+                0x00009b01      0x6c5 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_uart.c.obj
+ .debug_loclists
+                0x0000a1c6       0x66 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/dl_interrupt.c.obj
+ .debug_loclists
+                0x0000a22c      0x5bc CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0g1x0x_g3x0x.c.obj
+
+.debug_aranges  0x00000000      0xef0
+ .debug_aranges
+                0x00000000       0x20 CMakeFiles/empty.dir/Core/main.c.obj
+ .debug_aranges
+                0x00000020       0x30 CMakeFiles/empty.dir/Core/startup_mspm0g350x_gcc.c.obj
+ .debug_aranges
+                0x00000050       0x38 CMakeFiles/empty.dir/Core/ti_msp_dl_config.c.obj
+ .debug_aranges
+                0x00000088       0x28 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_adc12.c.obj
+ .debug_aranges
+                0x000000b0       0x98 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_aes.c.obj
+ .debug_aranges
+                0x00000148       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_aesadv.c.obj
+ .debug_aranges
+                0x00000160       0x20 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_common.c.obj
+ .debug_aranges
+                0x00000180       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_comp.c.obj
+ .debug_aranges
+                0x00000198       0x38 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_crc.c.obj
+ .debug_aranges
+                0x000001d0       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_crcp.c.obj
+ .debug_aranges
+                0x000001e8       0x48 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_dac12.c.obj
+ .debug_aranges
+                0x00000230       0x20 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_dma.c.obj
+ .debug_aranges
+                0x00000250      0x2d0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .debug_aranges
+                0x00000520       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_gpamp.c.obj
+ .debug_aranges
+                0x00000538       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_gpio.c.obj
+ .debug_aranges
+                0x00000550       0x78 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_i2c.c.obj
+ .debug_aranges
+                0x000005c8       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_iwdt.c.obj
+ .debug_aranges
+                0x000005e0       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_keystorectl.c.obj
+ .debug_aranges
+                0x000005f8       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_lcd.c.obj
+ .debug_aranges
+                0x00000610       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_lfss.c.obj
+ .debug_aranges
+                0x00000628       0x20 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mathacl.c.obj
+ .debug_aranges
+                0x00000648      0x2a8 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .debug_aranges
+                0x000008f0       0x28 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_opa.c.obj
+ .debug_aranges
+                0x00000918       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_rtc.c.obj
+ .debug_aranges
+                0x00000930       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_rtc_a.c.obj
+ .debug_aranges
+                0x00000948       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_rtc_b.c.obj
+ .debug_aranges
+                0x00000960       0x68 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_rtc_common.c.obj
+ .debug_aranges
+                0x000009c8       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_scratchpad.c.obj
+ .debug_aranges
+                0x000009e0       0xd0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_spi.c.obj
+ .debug_aranges
+                0x00000ab0       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_tamperio.c.obj
+ .debug_aranges
+                0x00000ac8      0x1a0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .debug_aranges
+                0x00000c68       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timera.c.obj
+ .debug_aranges
+                0x00000c80       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timerg.c.obj
+ .debug_aranges
+                0x00000c98       0x28 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_trng.c.obj
+ .debug_aranges
+                0x00000cc0       0xa0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_uart.c.obj
+ .debug_aranges
+                0x00000d60       0x30 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_vref.c.obj
+ .debug_aranges
+                0x00000d90       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_wwdt.c.obj
+ .debug_aranges
+                0x00000da8       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/dl_factoryregion.c.obj
+ .debug_aranges
+                0x00000dc0       0x28 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/dl_interrupt.c.obj
+ .debug_aranges
+                0x00000de8       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0c110x.c.obj
+ .debug_aranges
+                0x00000e00       0x78 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0g1x0x_g3x0x.c.obj
+ .debug_aranges
+                0x00000e78       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0gx51x.c.obj
+ .debug_aranges
+                0x00000e90       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0h321x.c.obj
+ .debug_aranges
+                0x00000ea8       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0l111x.c.obj
+ .debug_aranges
+                0x00000ec0       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0l11xx_l13xx.c.obj
+ .debug_aranges
+                0x00000ed8       0x18 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0l122x_l222x.c.obj
+
+.debug_rnglists
+                0x00000000      0x9b8
+ .debug_rnglists
+                0x00000000       0x13 CMakeFiles/empty.dir/Core/main.c.obj
+ .debug_rnglists
+                0x00000013       0x1f CMakeFiles/empty.dir/Core/startup_mspm0g350x_gcc.c.obj
+ .debug_rnglists
+                0x00000032       0x25 CMakeFiles/empty.dir/Core/ti_msp_dl_config.c.obj
+ .debug_rnglists
+                0x00000057       0x19 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_adc12.c.obj
+ .debug_rnglists
+                0x00000070       0x6d CMakeFiles/empty.dir/Driver/ti/driverlib/dl_aes.c.obj
+ .debug_rnglists
+                0x000000dd       0x13 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_common.c.obj
+ .debug_rnglists
+                0x000000f0       0x25 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_crc.c.obj
+ .debug_rnglists
+                0x00000115       0x31 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_dac12.c.obj
+ .debug_rnglists
+                0x00000146       0x13 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_dma.c.obj
+ .debug_rnglists
+                0x00000159      0x22b CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .debug_rnglists
+                0x00000384       0x55 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_i2c.c.obj
+ .debug_rnglists
+                0x000003d9       0x13 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mathacl.c.obj
+ .debug_rnglists
+                0x000003ec      0x23f CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .debug_rnglists
+                0x0000062b       0x19 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_opa.c.obj
+ .debug_rnglists
+                0x00000644       0x4f CMakeFiles/empty.dir/Driver/ti/driverlib/dl_rtc_common.c.obj
+ .debug_rnglists
+                0x00000693       0x97 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_spi.c.obj
+ .debug_rnglists
+                0x0000072a      0x16e CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .debug_rnglists
+                0x00000898       0x19 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_trng.c.obj
+ .debug_rnglists
+                0x000008b1       0x78 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_uart.c.obj
+ .debug_rnglists
+                0x00000929       0x1f CMakeFiles/empty.dir/Driver/ti/driverlib/dl_vref.c.obj
+ .debug_rnglists
+                0x00000948       0x19 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/dl_interrupt.c.obj
+ .debug_rnglists
+                0x00000961       0x57 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0g1x0x_g3x0x.c.obj
+
+.debug_line     0x00000000    0x131a6
+ .debug_line    0x00000000      0x45f CMakeFiles/empty.dir/Core/main.c.obj
+ .debug_line    0x0000045f      0x1ce CMakeFiles/empty.dir/Core/startup_mspm0g350x_gcc.c.obj
+ .debug_line    0x0000062d      0x5d0 CMakeFiles/empty.dir/Core/ti_msp_dl_config.c.obj
+ .debug_line    0x00000bfd      0x493 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_adc12.c.obj
+ .debug_line    0x00001090      0x784 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_aes.c.obj
+ .debug_line    0x00001814      0x3c2 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_aesadv.c.obj
+ .debug_line    0x00001bd6      0x3df CMakeFiles/empty.dir/Driver/ti/driverlib/dl_common.c.obj
+ .debug_line    0x00001fb5      0x3c0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_comp.c.obj
+ .debug_line    0x00002375      0x5c6 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_crc.c.obj
+ .debug_line    0x0000293b      0x3c0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_crcp.c.obj
+ .debug_line    0x00002cfb      0x68a CMakeFiles/empty.dir/Driver/ti/driverlib/dl_dac12.c.obj
+ .debug_line    0x00003385      0x45a CMakeFiles/empty.dir/Driver/ti/driverlib/dl_dma.c.obj
+ .debug_line    0x000037df     0x1f88 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .debug_line    0x00005767      0x3c1 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_gpamp.c.obj
+ .debug_line    0x00005b28      0x3c0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_gpio.c.obj
+ .debug_line    0x00005ee8      0x828 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_i2c.c.obj
+ .debug_line    0x00006710      0x3c0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_iwdt.c.obj
+ .debug_line    0x00006ad0      0x3c7 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_keystorectl.c.obj
+ .debug_line    0x00006e97      0x3bf CMakeFiles/empty.dir/Driver/ti/driverlib/dl_lcd.c.obj
+ .debug_line    0x00007256      0x3c0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_lfss.c.obj
+ .debug_line    0x00007616      0x435 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mathacl.c.obj
+ .debug_line    0x00007a4b     0x30e5 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .debug_line    0x0000ab30      0x4d8 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_opa.c.obj
+ .debug_line    0x0000b008      0x3bf CMakeFiles/empty.dir/Driver/ti/driverlib/dl_rtc.c.obj
+ .debug_line    0x0000b3c7      0x3c1 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_rtc_a.c.obj
+ .debug_line    0x0000b788      0x3c1 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_rtc_b.c.obj
+ .debug_line    0x0000bb49     0x101e CMakeFiles/empty.dir/Driver/ti/driverlib/dl_rtc_common.c.obj
+ .debug_line    0x0000cb67      0x3c6 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_scratchpad.c.obj
+ .debug_line    0x0000cf2d      0xc42 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_spi.c.obj
+ .debug_line    0x0000db6f      0x3c4 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_tamperio.c.obj
+ .debug_line    0x0000df33     0x1b2d CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .debug_line    0x0000fa60      0x3c2 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timera.c.obj
+ .debug_line    0x0000fe22      0x3c2 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timerg.c.obj
+ .debug_line    0x000101e4      0x4c7 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_trng.c.obj
+ .debug_line    0x000106ab      0xc1f CMakeFiles/empty.dir/Driver/ti/driverlib/dl_uart.c.obj
+ .debug_line    0x000112ca      0x45b CMakeFiles/empty.dir/Driver/ti/driverlib/dl_vref.c.obj
+ .debug_line    0x00011725      0x3c0 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_wwdt.c.obj
+ .debug_line    0x00011ae5      0x3cd CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/dl_factoryregion.c.obj
+ .debug_line    0x00011eb2      0x4ab CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/dl_interrupt.c.obj
+ .debug_line    0x0001235d       0x79 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0c110x.c.obj
+ .debug_line    0x000123d6      0xb67 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0g1x0x_g3x0x.c.obj
+ .debug_line    0x00012f3d       0x79 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0gx51x.c.obj
+ .debug_line    0x00012fb6       0x79 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0h321x.c.obj
+ .debug_line    0x0001302f       0x79 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0l111x.c.obj
+ .debug_line    0x000130a8       0x7f CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0l11xx_l13xx.c.obj
+ .debug_line    0x00013127       0x7f CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0l122x_l222x.c.obj
+
+.debug_str      0x00000000     0xba37
+ .debug_str     0x00000000     0xba37 CMakeFiles/empty.dir/Core/main.c.obj
+                               0x1aff (size before relaxing)
+ .debug_str     0x0000ba37      0x2a1 CMakeFiles/empty.dir/Core/startup_mspm0g350x_gcc.c.obj
+ .debug_str     0x0000ba37     0x23dd CMakeFiles/empty.dir/Core/ti_msp_dl_config.c.obj
+ .debug_str     0x0000ba37     0x1da3 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_adc12.c.obj
+ .debug_str     0x0000ba37     0x1e45 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_aes.c.obj
+ .debug_str     0x0000ba37     0x1aa5 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_aesadv.c.obj
+ .debug_str     0x0000ba37     0x1abe CMakeFiles/empty.dir/Driver/ti/driverlib/dl_common.c.obj
+ .debug_str     0x0000ba37     0x1a97 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_comp.c.obj
+ .debug_str     0x0000ba37     0x1bc3 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_crc.c.obj
+ .debug_str     0x0000ba37     0x1a97 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_crcp.c.obj
+ .debug_str     0x0000ba37     0x21f1 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_dac12.c.obj
+ .debug_str     0x0000ba37     0x1e1e CMakeFiles/empty.dir/Driver/ti/driverlib/dl_dma.c.obj
+ .debug_str     0x0000ba37     0x2cd8 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .debug_str     0x0000ba37     0x1a98 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_gpamp.c.obj
+ .debug_str     0x0000ba37     0x1a97 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_gpio.c.obj
+ .debug_str     0x0000ba37     0x1f77 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_i2c.c.obj
+ .debug_str     0x0000ba37     0x1a97 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_iwdt.c.obj
+ .debug_str     0x0000ba37     0x1a9e CMakeFiles/empty.dir/Driver/ti/driverlib/dl_keystorectl.c.obj
+ .debug_str     0x0000ba37     0x1a96 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_lcd.c.obj
+ .debug_str     0x0000ba37     0x1a97 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_lfss.c.obj
+ .debug_str     0x0000ba37     0x1f5f CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mathacl.c.obj
+ .debug_str     0x0000ba37     0x2f44 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .debug_str     0x0000ba37     0x1b82 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_opa.c.obj
+ .debug_str     0x0000ba37     0x1a96 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_rtc.c.obj
+ .debug_str     0x0000ba37     0x1a98 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_rtc_a.c.obj
+ .debug_str     0x0000ba37     0x1a98 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_rtc_b.c.obj
+ .debug_str     0x0000ba37     0x2a50 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_rtc_common.c.obj
+ .debug_str     0x0000ba37     0x1a9d CMakeFiles/empty.dir/Driver/ti/driverlib/dl_scratchpad.c.obj
+ .debug_str     0x0000ba37     0x23e8 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_spi.c.obj
+ .debug_str     0x0000ba37     0x1a9b CMakeFiles/empty.dir/Driver/ti/driverlib/dl_tamperio.c.obj
+ .debug_str     0x0000ba37     0x3461 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .debug_str     0x0000ba37     0x1a9f CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timera.c.obj
+ .debug_str     0x0000ba37     0x1a9f CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timerg.c.obj
+ .debug_str     0x0000ba37     0x1c5d CMakeFiles/empty.dir/Driver/ti/driverlib/dl_trng.c.obj
+ .debug_str     0x0000ba37     0x2440 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_uart.c.obj
+ .debug_str     0x0000ba37     0x1cf8 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_vref.c.obj
+ .debug_str     0x0000ba37     0x1a97 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_wwdt.c.obj
+ .debug_str     0x0000ba37     0x1aa4 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/dl_factoryregion.c.obj
+ .debug_str     0x0000ba37     0x1b50 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/dl_interrupt.c.obj
+ .debug_str     0x0000ba37      0x1b8 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0c110x.c.obj
+ .debug_str     0x0000ba37     0x2655 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0g1x0x_g3x0x.c.obj
+ .debug_str     0x0000ba37      0x1b8 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0gx51x.c.obj
+ .debug_str     0x0000ba37      0x1b8 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0h321x.c.obj
+ .debug_str     0x0000ba37      0x1b8 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0l111x.c.obj
+ .debug_str     0x0000ba37      0x1be CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0l11xx_l13xx.c.obj
+ .debug_str     0x0000ba37      0x1be CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0l122x_l222x.c.obj
+
+.comment        0x00000000       0x45
+ .comment       0x00000000       0x45 CMakeFiles/empty.dir/Core/main.c.obj
+                                 0x46 (size before relaxing)
+ .comment       0x00000045       0x46 CMakeFiles/empty.dir/Core/startup_mspm0g350x_gcc.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/empty.dir/Core/ti_msp_dl_config.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_adc12.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_aes.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_aesadv.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_common.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_comp.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_crc.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_crcp.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_dac12.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_dma.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_gpamp.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_gpio.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_i2c.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_iwdt.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_keystorectl.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_lcd.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_lfss.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mathacl.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_opa.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_rtc.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_rtc_a.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_rtc_b.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_rtc_common.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_scratchpad.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_spi.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_tamperio.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timera.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timerg.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_trng.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_uart.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_vref.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_wwdt.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/dl_factoryregion.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/dl_interrupt.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0c110x.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0g1x0x_g3x0x.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0gx51x.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0h321x.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0l111x.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0l11xx_l13xx.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0l122x_l222x.c.obj
+
+.ARM.attributes
+                0x00000000       0x2c
+ .ARM.attributes
+                0x00000000       0x2c CMakeFiles/empty.dir/Core/main.c.obj
+ .ARM.attributes
+                0x0000002c       0x2c CMakeFiles/empty.dir/Core/startup_mspm0g350x_gcc.c.obj
+ .ARM.attributes
+                0x00000058       0x2c CMakeFiles/empty.dir/Core/ti_msp_dl_config.c.obj
+ .ARM.attributes
+                0x00000084       0x2c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_adc12.c.obj
+ .ARM.attributes
+                0x000000b0       0x2c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_aes.c.obj
+ .ARM.attributes
+                0x000000dc       0x2c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_aesadv.c.obj
+ .ARM.attributes
+                0x00000108       0x2c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_common.c.obj
+ .ARM.attributes
+                0x00000134       0x2c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_comp.c.obj
+ .ARM.attributes
+                0x00000160       0x2c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_crc.c.obj
+ .ARM.attributes
+                0x0000018c       0x2c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_crcp.c.obj
+ .ARM.attributes
+                0x000001b8       0x2c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_dac12.c.obj
+ .ARM.attributes
+                0x000001e4       0x2c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_dma.c.obj
+ .ARM.attributes
+                0x00000210       0x2c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .ARM.attributes
+                0x0000023c       0x2c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_gpamp.c.obj
+ .ARM.attributes
+                0x00000268       0x2c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_gpio.c.obj
+ .ARM.attributes
+                0x00000294       0x2c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_i2c.c.obj
+ .ARM.attributes
+                0x000002c0       0x2c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_iwdt.c.obj
+ .ARM.attributes
+                0x000002ec       0x2c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_keystorectl.c.obj
+ .ARM.attributes
+                0x00000318       0x2c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_lcd.c.obj
+ .ARM.attributes
+                0x00000344       0x2c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_lfss.c.obj
+ .ARM.attributes
+                0x00000370       0x2c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mathacl.c.obj
+ .ARM.attributes
+                0x0000039c       0x2c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .ARM.attributes
+                0x000003c8       0x2c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_opa.c.obj
+ .ARM.attributes
+                0x000003f4       0x2c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_rtc.c.obj
+ .ARM.attributes
+                0x00000420       0x2c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_rtc_a.c.obj
+ .ARM.attributes
+                0x0000044c       0x2c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_rtc_b.c.obj
+ .ARM.attributes
+                0x00000478       0x2c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_rtc_common.c.obj
+ .ARM.attributes
+                0x000004a4       0x2c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_scratchpad.c.obj
+ .ARM.attributes
+                0x000004d0       0x2c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_spi.c.obj
+ .ARM.attributes
+                0x000004fc       0x2c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_tamperio.c.obj
+ .ARM.attributes
+                0x00000528       0x2c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .ARM.attributes
+                0x00000554       0x2c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timera.c.obj
+ .ARM.attributes
+                0x00000580       0x2c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timerg.c.obj
+ .ARM.attributes
+                0x000005ac       0x2c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_trng.c.obj
+ .ARM.attributes
+                0x000005d8       0x2c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_uart.c.obj
+ .ARM.attributes
+                0x00000604       0x2c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_vref.c.obj
+ .ARM.attributes
+                0x00000630       0x2c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_wwdt.c.obj
+ .ARM.attributes
+                0x0000065c       0x2c CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/dl_factoryregion.c.obj
+ .ARM.attributes
+                0x00000688       0x2c CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/dl_interrupt.c.obj
+ .ARM.attributes
+                0x000006b4       0x2c CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0c110x.c.obj
+ .ARM.attributes
+                0x000006e0       0x2c CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0g1x0x_g3x0x.c.obj
+ .ARM.attributes
+                0x0000070c       0x2c CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0gx51x.c.obj
+ .ARM.attributes
+                0x00000738       0x2c CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0h321x.c.obj
+ .ARM.attributes
+                0x00000764       0x2c CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0l111x.c.obj
+ .ARM.attributes
+                0x00000790       0x2c CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0l11xx_l13xx.c.obj
+ .ARM.attributes
+                0x000007bc       0x2c CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0l122x_l222x.c.obj
+ .ARM.attributes
+                0x000007e8       0x1e C:/Users/zhzhongshi/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x00000806       0x1e C:/Users/zhzhongshi/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000824       0x2c C:/Users/zhzhongshi/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libg_nano.a(libc_a-init.o)
+ .ARM.attributes
+                0x00000850       0x2c C:/Users/zhzhongshi/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libg_nano.a(libc_a-memcpy-stub.o)
+
+.debug_frame    0x00000000     0x1fc0
+ .debug_frame   0x00000000       0x2c CMakeFiles/empty.dir/Core/main.c.obj
+ .debug_frame   0x0000002c       0x48 CMakeFiles/empty.dir/Core/startup_mspm0g350x_gcc.c.obj
+ .debug_frame   0x00000074       0x60 CMakeFiles/empty.dir/Core/ti_msp_dl_config.c.obj
+ .debug_frame   0x000000d4       0x44 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_adc12.c.obj
+ .debug_frame   0x00000118      0x188 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_aes.c.obj
+ .debug_frame   0x000002a0       0x20 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_common.c.obj
+ .debug_frame   0x000002c0       0x7c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_crc.c.obj
+ .debug_frame   0x0000033c       0x94 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_dac12.c.obj
+ .debug_frame   0x000003d0       0x34 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_dma.c.obj
+ .debug_frame   0x00000404      0x8e4 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_flashctl.c.obj
+ .debug_frame   0x00000ce8       0xf4 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_i2c.c.obj
+ .debug_frame   0x00000ddc       0x2c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mathacl.c.obj
+ .debug_frame   0x00000e08      0x6e8 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_mcan.c.obj
+ .debug_frame   0x000014f0       0x40 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_opa.c.obj
+ .debug_frame   0x00001530       0xfc CMakeFiles/empty.dir/Driver/ti/driverlib/dl_rtc_common.c.obj
+ .debug_frame   0x0000162c      0x1dc CMakeFiles/empty.dir/Driver/ti/driverlib/dl_spi.c.obj
+ .debug_frame   0x00001808      0x3fc CMakeFiles/empty.dir/Driver/ti/driverlib/dl_timer.c.obj
+ .debug_frame   0x00001c04       0x3c CMakeFiles/empty.dir/Driver/ti/driverlib/dl_trng.c.obj
+ .debug_frame   0x00001c40      0x180 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_uart.c.obj
+ .debug_frame   0x00001dc0       0x40 CMakeFiles/empty.dir/Driver/ti/driverlib/dl_vref.c.obj
+ .debug_frame   0x00001e00       0x40 CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/dl_interrupt.c.obj
+ .debug_frame   0x00001e40      0x10c CMakeFiles/empty.dir/Driver/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0g1x0x_g3x0x.c.obj
+ .debug_frame   0x00001f4c       0x20 C:/Users/zhzhongshi/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .debug_frame   0x00001f6c       0x2c C:/Users/zhzhongshi/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libg_nano.a(libc_a-init.o)
+ .debug_frame   0x00001f98       0x28 C:/Users/zhzhongshi/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libg_nano.a(libc_a-memcpy-stub.o)
+
+.debug_line_str
+                0x00000000       0xc9
+ .debug_line_str
+                0x00000000       0xc9 C:/Users/zhzhongshi/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .debug_line_str
+                0x000000c9       0xc9 C:/Users/zhzhongshi/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)

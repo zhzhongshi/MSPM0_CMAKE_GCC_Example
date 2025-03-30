@@ -1,0 +1,4 @@
+C:/project/TI/SysTick/MSPM0G3507/Driver/ti/driverlib/dl_crc.c:37:10:DL_CRC_calculateBlock32	12	static
+C:/project/TI/SysTick/MSPM0G3507/Driver/ti/driverlib/dl_crc.c:51:10:DL_CRC_calculateMemoryRange32	8	static
+C:/project/TI/SysTick/MSPM0G3507/Driver/ti/driverlib/dl_crc.c:66:10:DL_CRC_calculateBlock16	24	static
+C:/project/TI/SysTick/MSPM0G3507/Driver/ti/driverlib/dl_crc.c:80:10:DL_CRC_calculateMemoryRange16	16	static

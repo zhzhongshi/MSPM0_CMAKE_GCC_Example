@@ -1,0 +1,16 @@
+C:/project/TI/LED_BLINK/MSPM0G3507/Driver/ti/driverlib/dl_aes.c:214:13:DL_AES_loadDataWord	8	static
+C:/project/TI/LED_BLINK/MSPM0G3507/Driver/ti/driverlib/dl_aes.c:228:24:DL_AES_checkAlignmentAndReturnPointer	0	static
+C:/project/TI/LED_BLINK/MSPM0G3507/Driver/ti/driverlib/dl_aes.c:58:6:DL_AES_setKeyAligned	8	static
+C:/project/TI/LED_BLINK/MSPM0G3507/Driver/ti/driverlib/dl_aes.c:43:15:DL_AES_setKey	16	static
+C:/project/TI/LED_BLINK/MSPM0G3507/Driver/ti/driverlib/dl_aes.c:92:6:DL_AES_loadDataInAligned	8	static
+C:/project/TI/LED_BLINK/MSPM0G3507/Driver/ti/driverlib/dl_aes.c:78:15:DL_AES_loadDataIn	8	static
+C:/project/TI/LED_BLINK/MSPM0G3507/Driver/ti/driverlib/dl_aes.c:114:6:DL_AES_getDataOutAligned	0	static
+C:/project/TI/LED_BLINK/MSPM0G3507/Driver/ti/driverlib/dl_aes.c:97:15:DL_AES_getDataOut	8	static
+C:/project/TI/LED_BLINK/MSPM0G3507/Driver/ti/driverlib/dl_aes.c:143:6:DL_AES_loadXORDataInAligned	8	static
+C:/project/TI/LED_BLINK/MSPM0G3507/Driver/ti/driverlib/dl_aes.c:129:15:DL_AES_loadXORDataIn	8	static
+C:/project/TI/LED_BLINK/MSPM0G3507/Driver/ti/driverlib/dl_aes.c:163:6:DL_AES_loadXORDataInWithoutTriggerAligned	8	static
+C:/project/TI/LED_BLINK/MSPM0G3507/Driver/ti/driverlib/dl_aes.c:148:15:DL_AES_loadXORDataInWithoutTrigger	8	static
+C:/project/TI/LED_BLINK/MSPM0G3507/Driver/ti/driverlib/dl_aes.c:197:6:DL_AES_xorDataAligned	12	static
+C:/project/TI/LED_BLINK/MSPM0G3507/Driver/ti/driverlib/dl_aes.c:169:15:DL_AES_xorData	8	static
+C:/project/TI/LED_BLINK/MSPM0G3507/Driver/ti/driverlib/dl_aes.c:243:6:DL_AES_saveConfiguration	8	static
+C:/project/TI/LED_BLINK/MSPM0G3507/Driver/ti/driverlib/dl_aes.c:258:6:DL_AES_restoreConfiguration	8	static

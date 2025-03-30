@@ -1,0 +1,7 @@
+C:/project/TI/Example/UART/MSPM0G3507/Driver/ti/driverlib/dl_uart.h:1983:22:DL_UART_setBaudRateDivisor	8	static
+C:/project/TI/Example/UART/MSPM0G3507/Core/ti_msp_dl_config.c:59:21:SYSCFG_DL_initPower	8	static
+C:/project/TI/Example/UART/MSPM0G3507/Core/ti_msp_dl_config.c:73:21:SYSCFG_DL_GPIO_init	0	static
+C:/project/TI/Example/UART/MSPM0G3507/Core/ti_msp_dl_config.c:97:21:SYSCFG_DL_SYSCTL_init	0	static
+C:/project/TI/Example/UART/MSPM0G3507/Core/ti_msp_dl_config.c:125:21:SYSCFG_DL_UART_0_init	16	static
+C:/project/TI/Example/UART/MSPM0G3507/Core/ti_msp_dl_config.c:147:21:SYSCFG_DL_SYSTICK_init	0	static
+C:/project/TI/Example/UART/MSPM0G3507/Core/ti_msp_dl_config.c:47:21:SYSCFG_DL_init	8	static

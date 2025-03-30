@@ -1,0 +1,4 @@
+C:/project/TI/LED_BLINK/MSPM0G3507/Core/ti_msp_dl_config.c:55:21:SYSCFG_DL_initPower	8	static
+C:/project/TI/LED_BLINK/MSPM0G3507/Core/ti_msp_dl_config.c:65:21:SYSCFG_DL_GPIO_init	0	static
+C:/project/TI/LED_BLINK/MSPM0G3507/Core/ti_msp_dl_config.c:78:21:SYSCFG_DL_SYSCTL_init	0	static
+C:/project/TI/LED_BLINK/MSPM0G3507/Core/ti_msp_dl_config.c:47:21:SYSCFG_DL_init	8	static

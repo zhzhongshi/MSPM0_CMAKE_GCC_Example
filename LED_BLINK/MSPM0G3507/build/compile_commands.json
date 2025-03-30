@@ -1,0 +1,278 @@
+[
+{
+  "directory": "C:/project/TI/LED_BLINK/MSPM0G3507/build",
+  "command": "C:\\Users\\zhzhongshi\\scoop\\apps\\gcc-arm-none-eabi\\current\\bin\\arm-none-eabi-gcc.exe -D__MSPM0G3507__ -IC:/project/TI/LED_BLINK/MSPM0G3507/Core -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver/CMSIS/Core/Include -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver -mcpu=cortex-m0plus -std=gnu11 -mfloat-abi=soft --specs=nano.specs -mthumb -Wall -Og -g0 -ggdb -ffunction-sections -fdata-sections -fstack-usage -gstrict-dwarf -g -o CMakeFiles\\empty.dir\\Core\\main.c.obj -c C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Core\\main.c",
+  "file": "C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Core\\main.c",
+  "output": "CMakeFiles\\empty.dir\\Core\\main.c.obj"
+},
+{
+  "directory": "C:/project/TI/LED_BLINK/MSPM0G3507/build",
+  "command": "C:\\Users\\zhzhongshi\\scoop\\apps\\gcc-arm-none-eabi\\current\\bin\\arm-none-eabi-gcc.exe -D__MSPM0G3507__ -IC:/project/TI/LED_BLINK/MSPM0G3507/Core -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver/CMSIS/Core/Include -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver -mcpu=cortex-m0plus -std=gnu11 -mfloat-abi=soft --specs=nano.specs -mthumb -Wall -Og -g0 -ggdb -ffunction-sections -fdata-sections -fstack-usage -gstrict-dwarf -g -o CMakeFiles\\empty.dir\\Core\\startup_mspm0g350x_gcc.c.obj -c C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Core\\startup_mspm0g350x_gcc.c",
+  "file": "C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Core\\startup_mspm0g350x_gcc.c",
+  "output": "CMakeFiles\\empty.dir\\Core\\startup_mspm0g350x_gcc.c.obj"
+},
+{
+  "directory": "C:/project/TI/LED_BLINK/MSPM0G3507/build",
+  "command": "C:\\Users\\zhzhongshi\\scoop\\apps\\gcc-arm-none-eabi\\current\\bin\\arm-none-eabi-gcc.exe -D__MSPM0G3507__ -IC:/project/TI/LED_BLINK/MSPM0G3507/Core -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver/CMSIS/Core/Include -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver -mcpu=cortex-m0plus -std=gnu11 -mfloat-abi=soft --specs=nano.specs -mthumb -Wall -Og -g0 -ggdb -ffunction-sections -fdata-sections -fstack-usage -gstrict-dwarf -g -o CMakeFiles\\empty.dir\\Core\\ti_msp_dl_config.c.obj -c C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Core\\ti_msp_dl_config.c",
+  "file": "C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Core\\ti_msp_dl_config.c",
+  "output": "CMakeFiles\\empty.dir\\Core\\ti_msp_dl_config.c.obj"
+},
+{
+  "directory": "C:/project/TI/LED_BLINK/MSPM0G3507/build",
+  "command": "C:\\Users\\zhzhongshi\\scoop\\apps\\gcc-arm-none-eabi\\current\\bin\\arm-none-eabi-gcc.exe -D__MSPM0G3507__ -IC:/project/TI/LED_BLINK/MSPM0G3507/Core -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver/CMSIS/Core/Include -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver -mcpu=cortex-m0plus -std=gnu11 -mfloat-abi=soft --specs=nano.specs -mthumb -Wall -Og -g0 -ggdb -ffunction-sections -fdata-sections -fstack-usage -gstrict-dwarf -g -o CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_adc12.c.obj -c C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_adc12.c",
+  "file": "C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_adc12.c",
+  "output": "CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_adc12.c.obj"
+},
+{
+  "directory": "C:/project/TI/LED_BLINK/MSPM0G3507/build",
+  "command": "C:\\Users\\zhzhongshi\\scoop\\apps\\gcc-arm-none-eabi\\current\\bin\\arm-none-eabi-gcc.exe -D__MSPM0G3507__ -IC:/project/TI/LED_BLINK/MSPM0G3507/Core -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver/CMSIS/Core/Include -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver -mcpu=cortex-m0plus -std=gnu11 -mfloat-abi=soft --specs=nano.specs -mthumb -Wall -Og -g0 -ggdb -ffunction-sections -fdata-sections -fstack-usage -gstrict-dwarf -g -o CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_aes.c.obj -c C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_aes.c",
+  "file": "C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_aes.c",
+  "output": "CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_aes.c.obj"
+},
+{
+  "directory": "C:/project/TI/LED_BLINK/MSPM0G3507/build",
+  "command": "C:\\Users\\zhzhongshi\\scoop\\apps\\gcc-arm-none-eabi\\current\\bin\\arm-none-eabi-gcc.exe -D__MSPM0G3507__ -IC:/project/TI/LED_BLINK/MSPM0G3507/Core -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver/CMSIS/Core/Include -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver -mcpu=cortex-m0plus -std=gnu11 -mfloat-abi=soft --specs=nano.specs -mthumb -Wall -Og -g0 -ggdb -ffunction-sections -fdata-sections -fstack-usage -gstrict-dwarf -g -o CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_aesadv.c.obj -c C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_aesadv.c",
+  "file": "C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_aesadv.c",
+  "output": "CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_aesadv.c.obj"
+},
+{
+  "directory": "C:/project/TI/LED_BLINK/MSPM0G3507/build",
+  "command": "C:\\Users\\zhzhongshi\\scoop\\apps\\gcc-arm-none-eabi\\current\\bin\\arm-none-eabi-gcc.exe -D__MSPM0G3507__ -IC:/project/TI/LED_BLINK/MSPM0G3507/Core -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver/CMSIS/Core/Include -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver -mcpu=cortex-m0plus -std=gnu11 -mfloat-abi=soft --specs=nano.specs -mthumb -Wall -Og -g0 -ggdb -ffunction-sections -fdata-sections -fstack-usage -gstrict-dwarf -g -o CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_common.c.obj -c C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_common.c",
+  "file": "C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_common.c",
+  "output": "CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_common.c.obj"
+},
+{
+  "directory": "C:/project/TI/LED_BLINK/MSPM0G3507/build",
+  "command": "C:\\Users\\zhzhongshi\\scoop\\apps\\gcc-arm-none-eabi\\current\\bin\\arm-none-eabi-gcc.exe -D__MSPM0G3507__ -IC:/project/TI/LED_BLINK/MSPM0G3507/Core -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver/CMSIS/Core/Include -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver -mcpu=cortex-m0plus -std=gnu11 -mfloat-abi=soft --specs=nano.specs -mthumb -Wall -Og -g0 -ggdb -ffunction-sections -fdata-sections -fstack-usage -gstrict-dwarf -g -o CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_comp.c.obj -c C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_comp.c",
+  "file": "C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_comp.c",
+  "output": "CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_comp.c.obj"
+},
+{
+  "directory": "C:/project/TI/LED_BLINK/MSPM0G3507/build",
+  "command": "C:\\Users\\zhzhongshi\\scoop\\apps\\gcc-arm-none-eabi\\current\\bin\\arm-none-eabi-gcc.exe -D__MSPM0G3507__ -IC:/project/TI/LED_BLINK/MSPM0G3507/Core -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver/CMSIS/Core/Include -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver -mcpu=cortex-m0plus -std=gnu11 -mfloat-abi=soft --specs=nano.specs -mthumb -Wall -Og -g0 -ggdb -ffunction-sections -fdata-sections -fstack-usage -gstrict-dwarf -g -o CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_crc.c.obj -c C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_crc.c",
+  "file": "C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_crc.c",
+  "output": "CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_crc.c.obj"
+},
+{
+  "directory": "C:/project/TI/LED_BLINK/MSPM0G3507/build",
+  "command": "C:\\Users\\zhzhongshi\\scoop\\apps\\gcc-arm-none-eabi\\current\\bin\\arm-none-eabi-gcc.exe -D__MSPM0G3507__ -IC:/project/TI/LED_BLINK/MSPM0G3507/Core -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver/CMSIS/Core/Include -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver -mcpu=cortex-m0plus -std=gnu11 -mfloat-abi=soft --specs=nano.specs -mthumb -Wall -Og -g0 -ggdb -ffunction-sections -fdata-sections -fstack-usage -gstrict-dwarf -g -o CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_crcp.c.obj -c C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_crcp.c",
+  "file": "C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_crcp.c",
+  "output": "CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_crcp.c.obj"
+},
+{
+  "directory": "C:/project/TI/LED_BLINK/MSPM0G3507/build",
+  "command": "C:\\Users\\zhzhongshi\\scoop\\apps\\gcc-arm-none-eabi\\current\\bin\\arm-none-eabi-gcc.exe -D__MSPM0G3507__ -IC:/project/TI/LED_BLINK/MSPM0G3507/Core -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver/CMSIS/Core/Include -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver -mcpu=cortex-m0plus -std=gnu11 -mfloat-abi=soft --specs=nano.specs -mthumb -Wall -Og -g0 -ggdb -ffunction-sections -fdata-sections -fstack-usage -gstrict-dwarf -g -o CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_dac12.c.obj -c C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_dac12.c",
+  "file": "C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_dac12.c",
+  "output": "CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_dac12.c.obj"
+},
+{
+  "directory": "C:/project/TI/LED_BLINK/MSPM0G3507/build",
+  "command": "C:\\Users\\zhzhongshi\\scoop\\apps\\gcc-arm-none-eabi\\current\\bin\\arm-none-eabi-gcc.exe -D__MSPM0G3507__ -IC:/project/TI/LED_BLINK/MSPM0G3507/Core -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver/CMSIS/Core/Include -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver -mcpu=cortex-m0plus -std=gnu11 -mfloat-abi=soft --specs=nano.specs -mthumb -Wall -Og -g0 -ggdb -ffunction-sections -fdata-sections -fstack-usage -gstrict-dwarf -g -o CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_dma.c.obj -c C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_dma.c",
+  "file": "C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_dma.c",
+  "output": "CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_dma.c.obj"
+},
+{
+  "directory": "C:/project/TI/LED_BLINK/MSPM0G3507/build",
+  "command": "C:\\Users\\zhzhongshi\\scoop\\apps\\gcc-arm-none-eabi\\current\\bin\\arm-none-eabi-gcc.exe -D__MSPM0G3507__ -IC:/project/TI/LED_BLINK/MSPM0G3507/Core -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver/CMSIS/Core/Include -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver -mcpu=cortex-m0plus -std=gnu11 -mfloat-abi=soft --specs=nano.specs -mthumb -Wall -Og -g0 -ggdb -ffunction-sections -fdata-sections -fstack-usage -gstrict-dwarf -g -o CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_flashctl.c.obj -c C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_flashctl.c",
+  "file": "C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_flashctl.c",
+  "output": "CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_flashctl.c.obj"
+},
+{
+  "directory": "C:/project/TI/LED_BLINK/MSPM0G3507/build",
+  "command": "C:\\Users\\zhzhongshi\\scoop\\apps\\gcc-arm-none-eabi\\current\\bin\\arm-none-eabi-gcc.exe -D__MSPM0G3507__ -IC:/project/TI/LED_BLINK/MSPM0G3507/Core -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver/CMSIS/Core/Include -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver -mcpu=cortex-m0plus -std=gnu11 -mfloat-abi=soft --specs=nano.specs -mthumb -Wall -Og -g0 -ggdb -ffunction-sections -fdata-sections -fstack-usage -gstrict-dwarf -g -o CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_gpamp.c.obj -c C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_gpamp.c",
+  "file": "C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_gpamp.c",
+  "output": "CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_gpamp.c.obj"
+},
+{
+  "directory": "C:/project/TI/LED_BLINK/MSPM0G3507/build",
+  "command": "C:\\Users\\zhzhongshi\\scoop\\apps\\gcc-arm-none-eabi\\current\\bin\\arm-none-eabi-gcc.exe -D__MSPM0G3507__ -IC:/project/TI/LED_BLINK/MSPM0G3507/Core -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver/CMSIS/Core/Include -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver -mcpu=cortex-m0plus -std=gnu11 -mfloat-abi=soft --specs=nano.specs -mthumb -Wall -Og -g0 -ggdb -ffunction-sections -fdata-sections -fstack-usage -gstrict-dwarf -g -o CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_gpio.c.obj -c C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_gpio.c",
+  "file": "C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_gpio.c",
+  "output": "CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_gpio.c.obj"
+},
+{
+  "directory": "C:/project/TI/LED_BLINK/MSPM0G3507/build",
+  "command": "C:\\Users\\zhzhongshi\\scoop\\apps\\gcc-arm-none-eabi\\current\\bin\\arm-none-eabi-gcc.exe -D__MSPM0G3507__ -IC:/project/TI/LED_BLINK/MSPM0G3507/Core -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver/CMSIS/Core/Include -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver -mcpu=cortex-m0plus -std=gnu11 -mfloat-abi=soft --specs=nano.specs -mthumb -Wall -Og -g0 -ggdb -ffunction-sections -fdata-sections -fstack-usage -gstrict-dwarf -g -o CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_i2c.c.obj -c C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_i2c.c",
+  "file": "C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_i2c.c",
+  "output": "CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_i2c.c.obj"
+},
+{
+  "directory": "C:/project/TI/LED_BLINK/MSPM0G3507/build",
+  "command": "C:\\Users\\zhzhongshi\\scoop\\apps\\gcc-arm-none-eabi\\current\\bin\\arm-none-eabi-gcc.exe -D__MSPM0G3507__ -IC:/project/TI/LED_BLINK/MSPM0G3507/Core -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver/CMSIS/Core/Include -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver -mcpu=cortex-m0plus -std=gnu11 -mfloat-abi=soft --specs=nano.specs -mthumb -Wall -Og -g0 -ggdb -ffunction-sections -fdata-sections -fstack-usage -gstrict-dwarf -g -o CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_iwdt.c.obj -c C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_iwdt.c",
+  "file": "C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_iwdt.c",
+  "output": "CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_iwdt.c.obj"
+},
+{
+  "directory": "C:/project/TI/LED_BLINK/MSPM0G3507/build",
+  "command": "C:\\Users\\zhzhongshi\\scoop\\apps\\gcc-arm-none-eabi\\current\\bin\\arm-none-eabi-gcc.exe -D__MSPM0G3507__ -IC:/project/TI/LED_BLINK/MSPM0G3507/Core -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver/CMSIS/Core/Include -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver -mcpu=cortex-m0plus -std=gnu11 -mfloat-abi=soft --specs=nano.specs -mthumb -Wall -Og -g0 -ggdb -ffunction-sections -fdata-sections -fstack-usage -gstrict-dwarf -g -o CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_keystorectl.c.obj -c C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_keystorectl.c",
+  "file": "C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_keystorectl.c",
+  "output": "CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_keystorectl.c.obj"
+},
+{
+  "directory": "C:/project/TI/LED_BLINK/MSPM0G3507/build",
+  "command": "C:\\Users\\zhzhongshi\\scoop\\apps\\gcc-arm-none-eabi\\current\\bin\\arm-none-eabi-gcc.exe -D__MSPM0G3507__ -IC:/project/TI/LED_BLINK/MSPM0G3507/Core -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver/CMSIS/Core/Include -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver -mcpu=cortex-m0plus -std=gnu11 -mfloat-abi=soft --specs=nano.specs -mthumb -Wall -Og -g0 -ggdb -ffunction-sections -fdata-sections -fstack-usage -gstrict-dwarf -g -o CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_lcd.c.obj -c C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_lcd.c",
+  "file": "C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_lcd.c",
+  "output": "CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_lcd.c.obj"
+},
+{
+  "directory": "C:/project/TI/LED_BLINK/MSPM0G3507/build",
+  "command": "C:\\Users\\zhzhongshi\\scoop\\apps\\gcc-arm-none-eabi\\current\\bin\\arm-none-eabi-gcc.exe -D__MSPM0G3507__ -IC:/project/TI/LED_BLINK/MSPM0G3507/Core -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver/CMSIS/Core/Include -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver -mcpu=cortex-m0plus -std=gnu11 -mfloat-abi=soft --specs=nano.specs -mthumb -Wall -Og -g0 -ggdb -ffunction-sections -fdata-sections -fstack-usage -gstrict-dwarf -g -o CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_lfss.c.obj -c C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_lfss.c",
+  "file": "C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_lfss.c",
+  "output": "CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_lfss.c.obj"
+},
+{
+  "directory": "C:/project/TI/LED_BLINK/MSPM0G3507/build",
+  "command": "C:\\Users\\zhzhongshi\\scoop\\apps\\gcc-arm-none-eabi\\current\\bin\\arm-none-eabi-gcc.exe -D__MSPM0G3507__ -IC:/project/TI/LED_BLINK/MSPM0G3507/Core -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver/CMSIS/Core/Include -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver -mcpu=cortex-m0plus -std=gnu11 -mfloat-abi=soft --specs=nano.specs -mthumb -Wall -Og -g0 -ggdb -ffunction-sections -fdata-sections -fstack-usage -gstrict-dwarf -g -o CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_mathacl.c.obj -c C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_mathacl.c",
+  "file": "C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_mathacl.c",
+  "output": "CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_mathacl.c.obj"
+},
+{
+  "directory": "C:/project/TI/LED_BLINK/MSPM0G3507/build",
+  "command": "C:\\Users\\zhzhongshi\\scoop\\apps\\gcc-arm-none-eabi\\current\\bin\\arm-none-eabi-gcc.exe -D__MSPM0G3507__ -IC:/project/TI/LED_BLINK/MSPM0G3507/Core -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver/CMSIS/Core/Include -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver -mcpu=cortex-m0plus -std=gnu11 -mfloat-abi=soft --specs=nano.specs -mthumb -Wall -Og -g0 -ggdb -ffunction-sections -fdata-sections -fstack-usage -gstrict-dwarf -g -o CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_mcan.c.obj -c C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_mcan.c",
+  "file": "C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_mcan.c",
+  "output": "CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_mcan.c.obj"
+},
+{
+  "directory": "C:/project/TI/LED_BLINK/MSPM0G3507/build",
+  "command": "C:\\Users\\zhzhongshi\\scoop\\apps\\gcc-arm-none-eabi\\current\\bin\\arm-none-eabi-gcc.exe -D__MSPM0G3507__ -IC:/project/TI/LED_BLINK/MSPM0G3507/Core -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver/CMSIS/Core/Include -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver -mcpu=cortex-m0plus -std=gnu11 -mfloat-abi=soft --specs=nano.specs -mthumb -Wall -Og -g0 -ggdb -ffunction-sections -fdata-sections -fstack-usage -gstrict-dwarf -g -o CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_opa.c.obj -c C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_opa.c",
+  "file": "C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_opa.c",
+  "output": "CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_opa.c.obj"
+},
+{
+  "directory": "C:/project/TI/LED_BLINK/MSPM0G3507/build",
+  "command": "C:\\Users\\zhzhongshi\\scoop\\apps\\gcc-arm-none-eabi\\current\\bin\\arm-none-eabi-gcc.exe -D__MSPM0G3507__ -IC:/project/TI/LED_BLINK/MSPM0G3507/Core -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver/CMSIS/Core/Include -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver -mcpu=cortex-m0plus -std=gnu11 -mfloat-abi=soft --specs=nano.specs -mthumb -Wall -Og -g0 -ggdb -ffunction-sections -fdata-sections -fstack-usage -gstrict-dwarf -g -o CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_rtc.c.obj -c C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_rtc.c",
+  "file": "C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_rtc.c",
+  "output": "CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_rtc.c.obj"
+},
+{
+  "directory": "C:/project/TI/LED_BLINK/MSPM0G3507/build",
+  "command": "C:\\Users\\zhzhongshi\\scoop\\apps\\gcc-arm-none-eabi\\current\\bin\\arm-none-eabi-gcc.exe -D__MSPM0G3507__ -IC:/project/TI/LED_BLINK/MSPM0G3507/Core -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver/CMSIS/Core/Include -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver -mcpu=cortex-m0plus -std=gnu11 -mfloat-abi=soft --specs=nano.specs -mthumb -Wall -Og -g0 -ggdb -ffunction-sections -fdata-sections -fstack-usage -gstrict-dwarf -g -o CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_rtc_a.c.obj -c C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_rtc_a.c",
+  "file": "C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_rtc_a.c",
+  "output": "CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_rtc_a.c.obj"
+},
+{
+  "directory": "C:/project/TI/LED_BLINK/MSPM0G3507/build",
+  "command": "C:\\Users\\zhzhongshi\\scoop\\apps\\gcc-arm-none-eabi\\current\\bin\\arm-none-eabi-gcc.exe -D__MSPM0G3507__ -IC:/project/TI/LED_BLINK/MSPM0G3507/Core -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver/CMSIS/Core/Include -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver -mcpu=cortex-m0plus -std=gnu11 -mfloat-abi=soft --specs=nano.specs -mthumb -Wall -Og -g0 -ggdb -ffunction-sections -fdata-sections -fstack-usage -gstrict-dwarf -g -o CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_rtc_b.c.obj -c C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_rtc_b.c",
+  "file": "C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_rtc_b.c",
+  "output": "CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_rtc_b.c.obj"
+},
+{
+  "directory": "C:/project/TI/LED_BLINK/MSPM0G3507/build",
+  "command": "C:\\Users\\zhzhongshi\\scoop\\apps\\gcc-arm-none-eabi\\current\\bin\\arm-none-eabi-gcc.exe -D__MSPM0G3507__ -IC:/project/TI/LED_BLINK/MSPM0G3507/Core -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver/CMSIS/Core/Include -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver -mcpu=cortex-m0plus -std=gnu11 -mfloat-abi=soft --specs=nano.specs -mthumb -Wall -Og -g0 -ggdb -ffunction-sections -fdata-sections -fstack-usage -gstrict-dwarf -g -o CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_rtc_common.c.obj -c C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_rtc_common.c",
+  "file": "C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_rtc_common.c",
+  "output": "CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_rtc_common.c.obj"
+},
+{
+  "directory": "C:/project/TI/LED_BLINK/MSPM0G3507/build",
+  "command": "C:\\Users\\zhzhongshi\\scoop\\apps\\gcc-arm-none-eabi\\current\\bin\\arm-none-eabi-gcc.exe -D__MSPM0G3507__ -IC:/project/TI/LED_BLINK/MSPM0G3507/Core -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver/CMSIS/Core/Include -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver -mcpu=cortex-m0plus -std=gnu11 -mfloat-abi=soft --specs=nano.specs -mthumb -Wall -Og -g0 -ggdb -ffunction-sections -fdata-sections -fstack-usage -gstrict-dwarf -g -o CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_scratchpad.c.obj -c C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_scratchpad.c",
+  "file": "C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_scratchpad.c",
+  "output": "CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_scratchpad.c.obj"
+},
+{
+  "directory": "C:/project/TI/LED_BLINK/MSPM0G3507/build",
+  "command": "C:\\Users\\zhzhongshi\\scoop\\apps\\gcc-arm-none-eabi\\current\\bin\\arm-none-eabi-gcc.exe -D__MSPM0G3507__ -IC:/project/TI/LED_BLINK/MSPM0G3507/Core -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver/CMSIS/Core/Include -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver -mcpu=cortex-m0plus -std=gnu11 -mfloat-abi=soft --specs=nano.specs -mthumb -Wall -Og -g0 -ggdb -ffunction-sections -fdata-sections -fstack-usage -gstrict-dwarf -g -o CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_spi.c.obj -c C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_spi.c",
+  "file": "C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_spi.c",
+  "output": "CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_spi.c.obj"
+},
+{
+  "directory": "C:/project/TI/LED_BLINK/MSPM0G3507/build",
+  "command": "C:\\Users\\zhzhongshi\\scoop\\apps\\gcc-arm-none-eabi\\current\\bin\\arm-none-eabi-gcc.exe -D__MSPM0G3507__ -IC:/project/TI/LED_BLINK/MSPM0G3507/Core -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver/CMSIS/Core/Include -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver -mcpu=cortex-m0plus -std=gnu11 -mfloat-abi=soft --specs=nano.specs -mthumb -Wall -Og -g0 -ggdb -ffunction-sections -fdata-sections -fstack-usage -gstrict-dwarf -g -o CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_tamperio.c.obj -c C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_tamperio.c",
+  "file": "C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_tamperio.c",
+  "output": "CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_tamperio.c.obj"
+},
+{
+  "directory": "C:/project/TI/LED_BLINK/MSPM0G3507/build",
+  "command": "C:\\Users\\zhzhongshi\\scoop\\apps\\gcc-arm-none-eabi\\current\\bin\\arm-none-eabi-gcc.exe -D__MSPM0G3507__ -IC:/project/TI/LED_BLINK/MSPM0G3507/Core -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver/CMSIS/Core/Include -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver -mcpu=cortex-m0plus -std=gnu11 -mfloat-abi=soft --specs=nano.specs -mthumb -Wall -Og -g0 -ggdb -ffunction-sections -fdata-sections -fstack-usage -gstrict-dwarf -g -o CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_timer.c.obj -c C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_timer.c",
+  "file": "C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_timer.c",
+  "output": "CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_timer.c.obj"
+},
+{
+  "directory": "C:/project/TI/LED_BLINK/MSPM0G3507/build",
+  "command": "C:\\Users\\zhzhongshi\\scoop\\apps\\gcc-arm-none-eabi\\current\\bin\\arm-none-eabi-gcc.exe -D__MSPM0G3507__ -IC:/project/TI/LED_BLINK/MSPM0G3507/Core -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver/CMSIS/Core/Include -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver -mcpu=cortex-m0plus -std=gnu11 -mfloat-abi=soft --specs=nano.specs -mthumb -Wall -Og -g0 -ggdb -ffunction-sections -fdata-sections -fstack-usage -gstrict-dwarf -g -o CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_timera.c.obj -c C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_timera.c",
+  "file": "C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_timera.c",
+  "output": "CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_timera.c.obj"
+},
+{
+  "directory": "C:/project/TI/LED_BLINK/MSPM0G3507/build",
+  "command": "C:\\Users\\zhzhongshi\\scoop\\apps\\gcc-arm-none-eabi\\current\\bin\\arm-none-eabi-gcc.exe -D__MSPM0G3507__ -IC:/project/TI/LED_BLINK/MSPM0G3507/Core -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver/CMSIS/Core/Include -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver -mcpu=cortex-m0plus -std=gnu11 -mfloat-abi=soft --specs=nano.specs -mthumb -Wall -Og -g0 -ggdb -ffunction-sections -fdata-sections -fstack-usage -gstrict-dwarf -g -o CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_timerg.c.obj -c C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_timerg.c",
+  "file": "C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_timerg.c",
+  "output": "CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_timerg.c.obj"
+},
+{
+  "directory": "C:/project/TI/LED_BLINK/MSPM0G3507/build",
+  "command": "C:\\Users\\zhzhongshi\\scoop\\apps\\gcc-arm-none-eabi\\current\\bin\\arm-none-eabi-gcc.exe -D__MSPM0G3507__ -IC:/project/TI/LED_BLINK/MSPM0G3507/Core -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver/CMSIS/Core/Include -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver -mcpu=cortex-m0plus -std=gnu11 -mfloat-abi=soft --specs=nano.specs -mthumb -Wall -Og -g0 -ggdb -ffunction-sections -fdata-sections -fstack-usage -gstrict-dwarf -g -o CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_trng.c.obj -c C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_trng.c",
+  "file": "C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_trng.c",
+  "output": "CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_trng.c.obj"
+},
+{
+  "directory": "C:/project/TI/LED_BLINK/MSPM0G3507/build",
+  "command": "C:\\Users\\zhzhongshi\\scoop\\apps\\gcc-arm-none-eabi\\current\\bin\\arm-none-eabi-gcc.exe -D__MSPM0G3507__ -IC:/project/TI/LED_BLINK/MSPM0G3507/Core -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver/CMSIS/Core/Include -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver -mcpu=cortex-m0plus -std=gnu11 -mfloat-abi=soft --specs=nano.specs -mthumb -Wall -Og -g0 -ggdb -ffunction-sections -fdata-sections -fstack-usage -gstrict-dwarf -g -o CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_uart.c.obj -c C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_uart.c",
+  "file": "C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_uart.c",
+  "output": "CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_uart.c.obj"
+},
+{
+  "directory": "C:/project/TI/LED_BLINK/MSPM0G3507/build",
+  "command": "C:\\Users\\zhzhongshi\\scoop\\apps\\gcc-arm-none-eabi\\current\\bin\\arm-none-eabi-gcc.exe -D__MSPM0G3507__ -IC:/project/TI/LED_BLINK/MSPM0G3507/Core -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver/CMSIS/Core/Include -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver -mcpu=cortex-m0plus -std=gnu11 -mfloat-abi=soft --specs=nano.specs -mthumb -Wall -Og -g0 -ggdb -ffunction-sections -fdata-sections -fstack-usage -gstrict-dwarf -g -o CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_vref.c.obj -c C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_vref.c",
+  "file": "C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_vref.c",
+  "output": "CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_vref.c.obj"
+},
+{
+  "directory": "C:/project/TI/LED_BLINK/MSPM0G3507/build",
+  "command": "C:\\Users\\zhzhongshi\\scoop\\apps\\gcc-arm-none-eabi\\current\\bin\\arm-none-eabi-gcc.exe -D__MSPM0G3507__ -IC:/project/TI/LED_BLINK/MSPM0G3507/Core -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver/CMSIS/Core/Include -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver -mcpu=cortex-m0plus -std=gnu11 -mfloat-abi=soft --specs=nano.specs -mthumb -Wall -Og -g0 -ggdb -ffunction-sections -fdata-sections -fstack-usage -gstrict-dwarf -g -o CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_wwdt.c.obj -c C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_wwdt.c",
+  "file": "C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\dl_wwdt.c",
+  "output": "CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\dl_wwdt.c.obj"
+},
+{
+  "directory": "C:/project/TI/LED_BLINK/MSPM0G3507/build",
+  "command": "C:\\Users\\zhzhongshi\\scoop\\apps\\gcc-arm-none-eabi\\current\\bin\\arm-none-eabi-gcc.exe -D__MSPM0G3507__ -IC:/project/TI/LED_BLINK/MSPM0G3507/Core -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver/CMSIS/Core/Include -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver -mcpu=cortex-m0plus -std=gnu11 -mfloat-abi=soft --specs=nano.specs -mthumb -Wall -Og -g0 -ggdb -ffunction-sections -fdata-sections -fstack-usage -gstrict-dwarf -g -o CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\m0p\\dl_factoryregion.c.obj -c C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\m0p\\dl_factoryregion.c",
+  "file": "C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\m0p\\dl_factoryregion.c",
+  "output": "CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\m0p\\dl_factoryregion.c.obj"
+},
+{
+  "directory": "C:/project/TI/LED_BLINK/MSPM0G3507/build",
+  "command": "C:\\Users\\zhzhongshi\\scoop\\apps\\gcc-arm-none-eabi\\current\\bin\\arm-none-eabi-gcc.exe -D__MSPM0G3507__ -IC:/project/TI/LED_BLINK/MSPM0G3507/Core -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver/CMSIS/Core/Include -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver -mcpu=cortex-m0plus -std=gnu11 -mfloat-abi=soft --specs=nano.specs -mthumb -Wall -Og -g0 -ggdb -ffunction-sections -fdata-sections -fstack-usage -gstrict-dwarf -g -o CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\m0p\\dl_interrupt.c.obj -c C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\m0p\\dl_interrupt.c",
+  "file": "C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\m0p\\dl_interrupt.c",
+  "output": "CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\m0p\\dl_interrupt.c.obj"
+},
+{
+  "directory": "C:/project/TI/LED_BLINK/MSPM0G3507/build",
+  "command": "C:\\Users\\zhzhongshi\\scoop\\apps\\gcc-arm-none-eabi\\current\\bin\\arm-none-eabi-gcc.exe -D__MSPM0G3507__ -IC:/project/TI/LED_BLINK/MSPM0G3507/Core -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver/CMSIS/Core/Include -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver -mcpu=cortex-m0plus -std=gnu11 -mfloat-abi=soft --specs=nano.specs -mthumb -Wall -Og -g0 -ggdb -ffunction-sections -fdata-sections -fstack-usage -gstrict-dwarf -g -o CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\m0p\\sysctl\\dl_sysctl_mspm0c110x.c.obj -c C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\m0p\\sysctl\\dl_sysctl_mspm0c110x.c",
+  "file": "C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\m0p\\sysctl\\dl_sysctl_mspm0c110x.c",
+  "output": "CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\m0p\\sysctl\\dl_sysctl_mspm0c110x.c.obj"
+},
+{
+  "directory": "C:/project/TI/LED_BLINK/MSPM0G3507/build",
+  "command": "C:\\Users\\zhzhongshi\\scoop\\apps\\gcc-arm-none-eabi\\current\\bin\\arm-none-eabi-gcc.exe -D__MSPM0G3507__ -IC:/project/TI/LED_BLINK/MSPM0G3507/Core -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver/CMSIS/Core/Include -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver -mcpu=cortex-m0plus -std=gnu11 -mfloat-abi=soft --specs=nano.specs -mthumb -Wall -Og -g0 -ggdb -ffunction-sections -fdata-sections -fstack-usage -gstrict-dwarf -g -o CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\m0p\\sysctl\\dl_sysctl_mspm0g1x0x_g3x0x.c.obj -c C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\m0p\\sysctl\\dl_sysctl_mspm0g1x0x_g3x0x.c",
+  "file": "C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\m0p\\sysctl\\dl_sysctl_mspm0g1x0x_g3x0x.c",
+  "output": "CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\m0p\\sysctl\\dl_sysctl_mspm0g1x0x_g3x0x.c.obj"
+},
+{
+  "directory": "C:/project/TI/LED_BLINK/MSPM0G3507/build",
+  "command": "C:\\Users\\zhzhongshi\\scoop\\apps\\gcc-arm-none-eabi\\current\\bin\\arm-none-eabi-gcc.exe -D__MSPM0G3507__ -IC:/project/TI/LED_BLINK/MSPM0G3507/Core -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver/CMSIS/Core/Include -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver -mcpu=cortex-m0plus -std=gnu11 -mfloat-abi=soft --specs=nano.specs -mthumb -Wall -Og -g0 -ggdb -ffunction-sections -fdata-sections -fstack-usage -gstrict-dwarf -g -o CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\m0p\\sysctl\\dl_sysctl_mspm0gx51x.c.obj -c C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\m0p\\sysctl\\dl_sysctl_mspm0gx51x.c",
+  "file": "C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\m0p\\sysctl\\dl_sysctl_mspm0gx51x.c",
+  "output": "CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\m0p\\sysctl\\dl_sysctl_mspm0gx51x.c.obj"
+},
+{
+  "directory": "C:/project/TI/LED_BLINK/MSPM0G3507/build",
+  "command": "C:\\Users\\zhzhongshi\\scoop\\apps\\gcc-arm-none-eabi\\current\\bin\\arm-none-eabi-gcc.exe -D__MSPM0G3507__ -IC:/project/TI/LED_BLINK/MSPM0G3507/Core -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver/CMSIS/Core/Include -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver -mcpu=cortex-m0plus -std=gnu11 -mfloat-abi=soft --specs=nano.specs -mthumb -Wall -Og -g0 -ggdb -ffunction-sections -fdata-sections -fstack-usage -gstrict-dwarf -g -o CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\m0p\\sysctl\\dl_sysctl_mspm0h321x.c.obj -c C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\m0p\\sysctl\\dl_sysctl_mspm0h321x.c",
+  "file": "C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\m0p\\sysctl\\dl_sysctl_mspm0h321x.c",
+  "output": "CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\m0p\\sysctl\\dl_sysctl_mspm0h321x.c.obj"
+},
+{
+  "directory": "C:/project/TI/LED_BLINK/MSPM0G3507/build",
+  "command": "C:\\Users\\zhzhongshi\\scoop\\apps\\gcc-arm-none-eabi\\current\\bin\\arm-none-eabi-gcc.exe -D__MSPM0G3507__ -IC:/project/TI/LED_BLINK/MSPM0G3507/Core -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver/CMSIS/Core/Include -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver -mcpu=cortex-m0plus -std=gnu11 -mfloat-abi=soft --specs=nano.specs -mthumb -Wall -Og -g0 -ggdb -ffunction-sections -fdata-sections -fstack-usage -gstrict-dwarf -g -o CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\m0p\\sysctl\\dl_sysctl_mspm0l111x.c.obj -c C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\m0p\\sysctl\\dl_sysctl_mspm0l111x.c",
+  "file": "C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\m0p\\sysctl\\dl_sysctl_mspm0l111x.c",
+  "output": "CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\m0p\\sysctl\\dl_sysctl_mspm0l111x.c.obj"
+},
+{
+  "directory": "C:/project/TI/LED_BLINK/MSPM0G3507/build",
+  "command": "C:\\Users\\zhzhongshi\\scoop\\apps\\gcc-arm-none-eabi\\current\\bin\\arm-none-eabi-gcc.exe -D__MSPM0G3507__ -IC:/project/TI/LED_BLINK/MSPM0G3507/Core -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver/CMSIS/Core/Include -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver -mcpu=cortex-m0plus -std=gnu11 -mfloat-abi=soft --specs=nano.specs -mthumb -Wall -Og -g0 -ggdb -ffunction-sections -fdata-sections -fstack-usage -gstrict-dwarf -g -o CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\m0p\\sysctl\\dl_sysctl_mspm0l11xx_l13xx.c.obj -c C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\m0p\\sysctl\\dl_sysctl_mspm0l11xx_l13xx.c",
+  "file": "C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\m0p\\sysctl\\dl_sysctl_mspm0l11xx_l13xx.c",
+  "output": "CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\m0p\\sysctl\\dl_sysctl_mspm0l11xx_l13xx.c.obj"
+},
+{
+  "directory": "C:/project/TI/LED_BLINK/MSPM0G3507/build",
+  "command": "C:\\Users\\zhzhongshi\\scoop\\apps\\gcc-arm-none-eabi\\current\\bin\\arm-none-eabi-gcc.exe -D__MSPM0G3507__ -IC:/project/TI/LED_BLINK/MSPM0G3507/Core -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver/CMSIS/Core/Include -IC:/project/TI/LED_BLINK/MSPM0G3507/Driver -mcpu=cortex-m0plus -std=gnu11 -mfloat-abi=soft --specs=nano.specs -mthumb -Wall -Og -g0 -ggdb -ffunction-sections -fdata-sections -fstack-usage -gstrict-dwarf -g -o CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\m0p\\sysctl\\dl_sysctl_mspm0l122x_l222x.c.obj -c C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\m0p\\sysctl\\dl_sysctl_mspm0l122x_l222x.c",
+  "file": "C:\\project\\TI\\LED_BLINK\\MSPM0G3507\\Driver\\ti\\driverlib\\m0p\\sysctl\\dl_sysctl_mspm0l122x_l222x.c",
+  "output": "CMakeFiles\\empty.dir\\Driver\\ti\\driverlib\\m0p\\sysctl\\dl_sysctl_mspm0l122x_l222x.c.obj"
+}
+]

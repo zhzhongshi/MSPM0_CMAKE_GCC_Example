@@ -1,0 +1,3 @@
+C:/project/TI/LED_BLINK/MSPM0G3507/Core/startup_mspm0g350x_gcc.c:160:6:Default_Handler	0	static
+C:/project/TI/LED_BLINK/MSPM0G3507/Core/startup_mspm0g350x_gcc.c:113:6:Reset_Handler	8	static
+C:/project/TI/LED_BLINK/MSPM0G3507/Core/startup_mspm0g350x_gcc.c:23:6:initStub	0	static

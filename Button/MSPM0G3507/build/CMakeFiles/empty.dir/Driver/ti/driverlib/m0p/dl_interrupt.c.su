@@ -1,0 +1,2 @@
+C:/project/TI/Example/Button/MSPM0G3507/Driver/ti/driverlib/m0p/dl_interrupt.c:49:6:DL_Interrupt_registerInterrupt	20	static
+C:/project/TI/Example/Button/MSPM0G3507/Driver/ti/driverlib/m0p/dl_interrupt.c:70:6:DL_Interrupt_unregisterInterrupt	0	static

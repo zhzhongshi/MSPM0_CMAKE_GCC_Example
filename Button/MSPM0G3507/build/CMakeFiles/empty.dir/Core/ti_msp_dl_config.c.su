@@ -1,0 +1,5 @@
+C:/project/TI/Example/Button/MSPM0G3507/Core/ti_msp_dl_config.c:56:21:SYSCFG_DL_initPower	8	static
+C:/project/TI/Example/Button/MSPM0G3507/Core/ti_msp_dl_config.c:68:21:SYSCFG_DL_GPIO_init	0	static
+C:/project/TI/Example/Button/MSPM0G3507/Core/ti_msp_dl_config.c:83:21:SYSCFG_DL_SYSCTL_init	0	static
+C:/project/TI/Example/Button/MSPM0G3507/Core/ti_msp_dl_config.c:96:21:SYSCFG_DL_SYSTICK_init	0	static
+C:/project/TI/Example/Button/MSPM0G3507/Core/ti_msp_dl_config.c:47:21:SYSCFG_DL_init	8	static

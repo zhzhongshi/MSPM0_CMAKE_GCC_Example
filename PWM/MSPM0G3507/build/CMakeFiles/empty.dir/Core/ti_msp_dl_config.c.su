@@ -1,0 +1,7 @@
+C:/project/TI/Example/PWM/MSPM0G3507/Core/ti_msp_dl_config.c:60:21:SYSCFG_DL_initPower	16	static
+C:/project/TI/Example/PWM/MSPM0G3507/Core/ti_msp_dl_config.c:76:21:SYSCFG_DL_GPIO_init	0	static
+C:/project/TI/Example/PWM/MSPM0G3507/Core/ti_msp_dl_config.c:93:21:SYSCFG_DL_SYSCTL_init	0	static
+C:/project/TI/Example/PWM/MSPM0G3507/Core/ti_msp_dl_config.c:124:21:SYSCFG_DL_PWM_LED_init	16	static
+C:/project/TI/Example/PWM/MSPM0G3507/Core/ti_msp_dl_config.c:174:21:SYSCFG_DL_TIMER_0_init	8	static
+C:/project/TI/Example/PWM/MSPM0G3507/Core/ti_msp_dl_config.c:191:21:SYSCFG_DL_SYSTICK_init	0	static
+C:/project/TI/Example/PWM/MSPM0G3507/Core/ti_msp_dl_config.c:47:21:SYSCFG_DL_init	8	static

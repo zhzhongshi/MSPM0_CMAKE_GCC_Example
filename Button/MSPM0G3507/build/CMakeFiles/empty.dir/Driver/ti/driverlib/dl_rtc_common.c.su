@@ -1,0 +1,10 @@
+C:/project/TI/Example/Button/MSPM0G3507/Driver/ti/driverlib/dl_rtc_common.c:38:6:DL_RTC_Common_initCalendar	24	static
+C:/project/TI/Example/Button/MSPM0G3507/Driver/ti/driverlib/dl_rtc_common.c:74:24:DL_RTC_Common_getCalendarTime	24	static
+C:/project/TI/Example/Button/MSPM0G3507/Driver/ti/driverlib/dl_rtc_common.c:109:6:DL_RTC_Common_setCalendarAlarm1	24	static
+C:/project/TI/Example/Button/MSPM0G3507/Driver/ti/driverlib/dl_rtc_common.c:131:29:DL_RTC_Common_getCalendarAlarm1	24	static
+C:/project/TI/Example/Button/MSPM0G3507/Driver/ti/driverlib/dl_rtc_common.c:157:6:DL_RTC_Common_enableCalendarAlarm1	0	static
+C:/project/TI/Example/Button/MSPM0G3507/Driver/ti/driverlib/dl_rtc_common.c:176:6:DL_RTC_Common_disableCalendarAlarm1	0	static
+C:/project/TI/Example/Button/MSPM0G3507/Driver/ti/driverlib/dl_rtc_common.c:195:6:DL_RTC_Common_setCalendarAlarm2	24	static
+C:/project/TI/Example/Button/MSPM0G3507/Driver/ti/driverlib/dl_rtc_common.c:217:29:DL_RTC_Common_getCalendarAlarm2	24	static
+C:/project/TI/Example/Button/MSPM0G3507/Driver/ti/driverlib/dl_rtc_common.c:243:6:DL_RTC_Common_enableCalendarAlarm2	0	static
+C:/project/TI/Example/Button/MSPM0G3507/Driver/ti/driverlib/dl_rtc_common.c:262:6:DL_RTC_Common_disableCalendarAlarm2	0	static
